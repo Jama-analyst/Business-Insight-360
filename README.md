@@ -11,12 +11,20 @@
 - The whole conversation started with an email.
 
   **The Email that Started this Project:**
-- The Data Analytics Project started with an email from the Product Owner and the main Stakeholder, Nick Puri , roughly outlining the requirements of the five (5) different Dashboards in Power BI and how important it is to the Data Analyst Director Stephen Singh.
+- The Data Analytics Project started with an email from Nick Puri who is the Product Owner and the main Stakeholder, roughly outlining the requirements of the five (5) different Dashboards in Power BI (attaching the preliminary list of Features for review) and also mentioning the importance of the project to Stephen Singh the Data Analyst Director.
+- Report Features is an Induction Power BI Dashboard or a View. Each of this View gives answers on different types of questions as shown below:
+
     ![image](https://github.com/user-attachments/assets/f625737d-5df4-4c30-9550-920cd4bcdc0e)
 
+- In response the Data Analyst Director sends and an email to Tony Sharma (Senior Data Analyst). Requesting him to review the preliminary list of features and to laise with Product Owner for further discussion.
+- After that Tony send an email to Nick. Extanding a Kick-off meeting inviation and also enlighten Nick that he had reviewed the tool features and will check the data availability/feasibility for the sae before the Kick-off. He also mentions that he will prepare a Project Charter with the available details and his happy to discuss this in a Call.
 
-
-    **1.** Create a _[Customer Performance Report](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
+  
+    **1.** Tony Responsibilites:
+  [] To schedule a Kick-off Meeting
+  [] Need to do his homework or research
+  [] Assign or set-up a Team (have a Jamanovandu Hangara - Junior Data Analyst)
+  [] Prepare a Project Charter - is a document that people use in the project Kick-off Meeting, it _[Customer Performance Report](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
     **2.** Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
 
