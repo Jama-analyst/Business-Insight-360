@@ -105,8 +105,8 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]([https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Years.pdf](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Business%20Insights%20360_2024-08-08_04-50-41.pdf))_ & _[Months](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/P%20%26%20L%20By%20Fiscal%20Months.pdf)_ 
-
+    **1.** Create Profit and Loss (P&L) reports by _[Business Insight 360](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Business%20Insights%20360_2024-08-08_04-50-41.pdf)
+  
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Top%205%20Countries.pdf)_, [Division](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Division%20Report.pdf)_, [Top 10 Products](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)_ & [Top 5 and Bottom 5 Products](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Top%205%20and%20Bottom%205%20products.pdf)
 
 - **Purpose of Sales Analytics:**
