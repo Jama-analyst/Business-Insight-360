@@ -125,7 +125,7 @@
 - There will be a final stage of Validation, whereby Nick will ask each Stakeholder's department to validate the numbers, to make sure that all the key figures are validated from the Stakeholders and note that's the way we do it.
   
 - [ ] Tony's Clarification
-- Since we are doing this project with a tight deadline and as you know we are a little team working on thid project, I don't want us to go into someting called Feature Creep -->which means we keep getting more features and more modifications as when 
+- Since we are doing this project with a tight deadline and as you know we are a little team working on thid project, I don't want us to go into someting called Feature Creep -->which means we keep getting more features and more modifications as when we work on the project, I am pretty sure that you are aware of this and always have a good vision on how the project can be excuted, but since many Stakeholders involved, I would need your support on the kind of own the difference on the features that we are getting. It's not like we can't do this, but we need to put it in a pipeline and implement in the next phase, this is something that needs to be communicated and understood well by the Stakeholders.
 
 - **Project objective:** 
 
