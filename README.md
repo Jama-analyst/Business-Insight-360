@@ -33,8 +33,6 @@
 
 
 
-    **2.** Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
-
 ## Project Kick-off Meeting:
 - [ ] A Project Kick-off meeting is held between thr Product Owner, Senior Data Analyst and Junior Data Analyst to discuss the project. The Senior Data Analyst Tony asks some important questions during the meeting.
 - [ ] Tony lead the meeeting by
