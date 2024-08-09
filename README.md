@@ -16,7 +16,7 @@
     ![image](https://github.com/user-attachments/assets/f625737d-5df4-4c30-9550-920cd4bcdc0e)
 
 - In response the Data Analyst Director sends and an email to Tony Sharma (Senior Data Analyst). Requesting him to review the preliminary list of features and to laise with Product Owner for further discussion.
-- After that Tony send an email to Nick. Extanding a Kick-off meeting inviation and also enlighten Nick that he had reviewed the tool features and will check the data availability/feasibility for the sae before the Kick-off. He also mentions that he will prepare a Project Charter with the available details and his happy to discuss this in a Call.
+- After that Tony send an email to Nick. Extanding a Kick-off meeting inviation and also enlighten Nick that he had reviewed the tool features and will check the data availability/feasibility for the sae before the Kick-off. He also mentions that he will prepare a Project Charter with the available details and his happy to discuss this in a call on Teams.
 
 
     **Tony Responsibilites**:
@@ -129,7 +129,21 @@
 -  [ ] Nick response
 - We have faced this problem in our regular sotware projects, where our Stakeholders kept on giving different suggestions like you should add this feature, that feature and tha, has always created delays and bugs in our software that we have released. So I will make sure that we don't get in this situation of Feature Creep.
 
-**Hope & Fears:**
+**Defining Sucess:**
+- [ ] Future Headlines
+- Increase in Sales for regions with low growth %
+- Profit Margin increased by 10%
+- Track & reduce expenses
+
+**Risks**
+- Resource stortage possiblity
+- Incase Nick's needs an additional resources Tony will communicate inadvanced, so that they can plan accordingly.
+**Next Steps**
+- Tony will create a Team Channel & used it to forward the meeting's minutes to Nick.
+- He would request two things from Nick:
+   - Benchmark data
+   - a Mock-up Dashboard (how the dashboard should look like for Finance View, Executive View, etc) to use it for reference.
+
 
 - **Project objective:** 
 
@@ -150,9 +164,11 @@
 - [ ] Instill confidence in the organization's financial outlook.
 
 
-## Tool used was Mural
+## Tool used was 
+**Mural**
 -   Mural is a collaborative online whiteboard tool that offers several benefits, particularly for teams working remotely or in hybrid environments.
-  
+**Teams**
+
 ## Benefits of using Mural Tool are:
 -  [ ] Visual Collaboration:
 -   Mural provides a canvas where teams can brainstorm, plan, and organize ideas visually. This can enhance creativity and help in better understanding complex concepts.
