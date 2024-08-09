@@ -91,7 +91,7 @@
  - [ ] Template used is Kick-off a Project Create alignment and build relationships for new project.
        
 **Project Charter was prepared by Tony**
-- [ ] Tony presenting the Project Charter
+- [ ] Tony will presenting the Project Charter
 
 [Business Insight 360](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Business%20Insights%20360_2024-08-08_04-50-41.pdf)
   
