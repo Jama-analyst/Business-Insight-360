@@ -1,14 +1,13 @@
 # Business-Insight-360
 ## Problem Statement
-- AtliQ Hardware is a hardware retail company, that offers a range of products such as PCs, mouse, printers. It has become the fast growing company in electronic goods market. While they grow substantially in the las t few years, they had a bitter experience in 
-  Latin America.
-- They established their business there, but faced a huge loss and this happen because they made all thier decisions based on some survey they conducted and on thier intuition. In thier new Strategy meeting, one of their top items was to onboard 
+- [ ] AtliQ Hardware is a hardware retail company, that offers a range of products such as PCs, mouse, printers. It has become the fast growing company in electronic goods market. While they grow substantially in the las t few years, they had a bitter experience in Latin America.
+- [ ]  They established their business there, but faced a huge loss and this happen because they made all thier decisions based on some survey they conducted and on thier intuition. In thier new Strategy meeting, one of their top items was to onboard 
   data analytics in the company and to make data driven decision.
-- They heavily relied on Excel Files for Data Analytics. Excel Files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics the company faces a major loss in Latin American. Senior Executives of the company have 
+- [ ] They heavily relied on Excel Files for Data Analytics. Excel Files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics the company faces a major loss in Latin American. Senior Executives of the company have 
   decided to invest in a data analytics project and have assisgned a team for this task, to onboard data analytics and to bring a lot of transparency into their data, so that they can accurate decisions.
-- One of the challenage they are facing is their competitors, which is DELL that is growing substantially, and has a huge data analytics team, that does all kind of analytics on customers demographics, their consumption patterns and so on. To face that 
+- [ ] One of the challenage they are facing is their competitors, which is DELL that is growing substantially, and has a huge data analytics team, that does all kind of analytics on customers demographics, their consumption patterns and so on. To face that 
   competition AtliQ had to do these, they had no other option.
-- The whole conversation started with an email.
+- [ ] The whole conversation started with an email.
 
   **The Email that Started this Project:**
 - The Data Analytics Project started with an email from Nick Puri who is the Product Owner and the main Stakeholder, roughly outlining the requirements of the five (5) different Dashboards in Power BI (attaching the preliminary list of Features for review) and also mentioning the importance of the project to Stephen Singh the Data Analyst Director.
@@ -20,18 +19,36 @@
 - After that Tony send an email to Nick. Extanding a Kick-off meeting inviation and also enlighten Nick that he had reviewed the tool features and will check the data availability/feasibility for the sae before the Kick-off. He also mentions that he will prepare a Project Charter with the available details and his happy to discuss this in a Call.
 
   
-    **1.** Tony Responsibilites:
-  [] To schedule a Kick-off Meeting
-  [] Need to do his homework or research
-  [] Assign or set-up a Team (have a Jamanovandu Hangara - Junior Data Analyst)
-  [] Prepare a Project Charter - is a document that people use in the project Kick-off Meeting, it _[Customer Performance Report](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **Tony Responsibilites**:
+  - [ ] To schedule a Kick-off Meeting
+  - [ ] Need to do his homework or research
+  - [ ] Assign or set-up a Team (have a Jamanovandu Hangara - Junior Data Analyst)
+  - [ ] Prepare a Project Charter
+  - is a document that people use in the project Kick-off Meeting, it
+  - it outlines the goals of the project
+  - it states the objectives of the project
+  - it introduces the Stakeholders of the project
+  - what the hopes and fears are
+  - what kind of expectations or the concrete outcome that is expected of out of this project
+
+
 
     **2.** Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
 
-- **Purpose of Sales Analytics:**
-- [ ] Empower businesses to monitor and evaluate their sales activities and performance.
+- **Project Kick-off Meeting:**
+- [ ] A Project Kick-off meeting is held between thr Product Owner, Senior Data Analyst and Junior Data Analyst to discuss the project. The Senior Data Analyst Tony asks some important questions during the meeting.
+- [ ] Tony lead the meeeting by
 
-- **Importance of Analyzing Sales Data:**
+- Tony discussed about the features list and said that he has a cable of questions
+- 
+ - **Report Features**
+  
+![image](https://github.com/user-attachments/assets/12806d2e-f152-4d7c-afc7-fb140a338427)
+
+
+- **Finance View:**
+- Tony ask about P & L Statement, is it a regular statement that we have in our company or is it customized?
+- Nick response let's start with a regular and as the project develops maybe we can customize it. Let's start with a every basic one.
 - [ ] Identify sales patterns and track key performance indicators (KPIs).
 
 - **Role of Reports:**
