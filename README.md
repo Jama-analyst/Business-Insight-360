@@ -97,6 +97,7 @@
        
 **Project Charter was prepared by Tony**
 - [ ] Tony presenting the Project Charter
+
 [Business Insight 360](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Business%20Insights%20360_2024-08-08_04-50-41.pdf)
   
 - I have filled data based on the information I have received e.g Project Name etc, but I still need your help to fill in the rest of the information.
