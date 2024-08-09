@@ -50,8 +50,8 @@ Tony
  - Welcome, everyone. In today’s meeting, I'm the one driving this project Business Insight 360 and together with me on the call is Jamanovandu Hangara, our Junior Data Analyst, she was newly appointed, she'll be supporting me on this project. I’m excited to get started and to align on our goals and deliverables.
 - [ ] Nick response
 - He acknowledge the welcome, greets Jamanovandu and wants to know what's on the agenda.
-- Tony discussed about the features list and said that he has a cable of questions
-- 
+- [ ] Tony discussed about the features list and said that he has a cable of questions
+  
  - **Report Features**
   
 ![image](https://github.com/user-attachments/assets/12806d2e-f152-4d7c-afc7-fb140a338427)
@@ -202,7 +202,13 @@ Tony
 
 
 ## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Being Proactive
+      - As a Data Analyst, you need to ask questions, as you need clarification from the begining
+    
+- [ ]	
+- [x]	Expectation Management
+      - Setting Realsitic Expectation e.g. Feature Creep (Tony wanted to make it very clear, that he'll not allow making to many changes while the project is on going.
+      - NB! One should worry about the authority (in terms of the Stakeholders) of the person that you are talking to. If one is being very clear and upfront it's gonig to help everybody. 
+- [x]	Project Management Skills
+     - Developing Project Management Skills in one's career e.g the Soft Skills in Project Management
 - [x]	Developing a systematic approach to devising a report building plan.
