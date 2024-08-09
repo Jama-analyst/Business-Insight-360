@@ -14,8 +14,9 @@
     ![image](https://github.com/user-attachments/assets/f625737d-5df4-4c30-9550-920cd4bcdc0e)
 
 - In response the Data Analyst Director sends and an email to Tony Sharma (Senior Data Analyst). Requesting him to review the preliminary list of features and to laise with Product Owner for further discussion.
-- After that Tony send an email to Nick. Extanding a Kick-off meeting inviation and also enlighten Nick that he had reviewed the tool features and will check the data availability/feasibility for the sae before the Kick-off. He also mentions that he will prepare a Project Charter with the available details and his happy to discuss this in a call on Teams.
-
+  After that Tony send an email to Nick.
+- [ ] Tony's email to Nick,
+I am reaching out to extend an invitation for our Kick-off meeting, where we will discuss the initial steps and objectives of our project. In preparation for this meeting, I have reviewed the tool features and will be assessing the availability and feasibility of the data required. Additionally, I will be preparing a Project Charter based on the available details. I would be happy to discuss this further during our call on Teams. Please let me know your availability for the Kick-off meeting at your earliest convenience.
 
     **Tony Responsibilites**:
   - [ ] To schedule a Kick-off Meeting
