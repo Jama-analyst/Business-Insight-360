@@ -70,11 +70,6 @@
 - I would go agile here, let's start with whatever we have. I do not want to postpone this project further, because it's a very important for our organization. Let's start with whatever we have, Reliability data is something we can tackle later.
 - [ ] Tony confirming
 - Okay, that's good, but I can say we still have the Forecast Accuracy data available, we can get it online.
-  
-- **Role of Reports:**
- - [ ] Determine effective customer discounts,
- - [ ] facilitate negotiations with consumers,
- - [ ] and identify potential business expansion opportunities in promising countries.
        
 **Executive View:**
 - [ ] Tony question
