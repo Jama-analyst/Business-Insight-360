@@ -49,8 +49,16 @@
 - **Finance View:**
 - Tony ask about P & L Statement, is it a regular statement that we have in our company or is it customized?
 - Nick response let's start with a regular and as the project develops maybe we can customize it. Let's start with a every basic one.
+- Tony confirmed by saying that means we are having the regular statement that starts with Gross Sales and it goes to Gross Margin.
+- 
+- **Sales View:**
+- Tony require some clarification from Nick in regard to showing Top/Bottom Customers. I would like to understand  what do you mean by X-axis or to have in the X & Y axis?
+- Nick response Gross Margin on X-axis  and Net Sales on Y-axis
+- Tony confirmed it's quite a standard and we can do that, moving along with the project we can support other options like show the Net Sales Growth and Gross Margin Growth and a few different things like that.
 - [ ] Identify sales patterns and track key performance indicators (KPIs).
-
+- [ ] 
+- **Marketing View:**
+- 
 - **Role of Reports:**
  - [ ] Determine effective customer discounts,
  - [ ] facilitate negotiations with consumers,
