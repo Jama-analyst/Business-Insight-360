@@ -97,7 +97,7 @@
   
 - I have filled data based on the information I have received e.g Project Name etc, but I still need your help to fill in the rest of the information.
 
-  **Objective:**
+**Objective:**
   - [ ] Tony befriefing under Objectives
   - The objective is have analytics in all markets e.g in India, USA, Canada and Asia. In short this should be applied to all their markets. We have pocket analytics in different markets e.g in USA amd India, we have quite a matured analytic, but if you think about South America and Europe we don't have much analytic there. So we want an Enterprise were business intelligent happening and data driven decision making.
     
@@ -105,6 +105,7 @@
 - [ ] Tony 
 - I have received information that we have a timing of 8 weeks, starting from now. In week 4 we'll provide you the Dashboard for UAT. I will try to provide you with the Minimum Vible Product which we called it MVP by the end of week 4. By the end of week 8, the user should start using the tool.
 - In between that, there will be Validation Stage, were will we be validating the data and I will be taking other feedback fixing that are not working correctly.
+  
 **Hope & Fears:**
 - [ ] Hopes
   - Data Driven Decision making
