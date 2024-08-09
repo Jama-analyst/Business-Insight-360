@@ -160,7 +160,7 @@ Tony
    - a Mock-up Dashboard (how the dashboard should look like for Finance View, Executive View, etc) to use it for reference.
 
 
-- **Project objective:** 
+## Senior Data Analyst Sets Up the Next Steps with Junior Data Analyst
 
     **1.** Create Profit and Loss (P&L) reports by _[Business Insight 360](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Business%20Insights%20360_2024-08-08_04-50-41.pdf)
   
@@ -203,12 +203,10 @@ Tony
 
 ## Soft Skills:
 - [x]	Being Proactive
-      - As a Data Analyst, you need to ask questions, as you need clarification from the begining
-    
-- [ ]	
+       - As a Data Analyst, one needs to ask questions, as one needs clarification from the begining
 - [x]	Expectation Management
-      - Setting Realsitic Expectation e.g. Feature Creep (Tony wanted to make it very clear, that he'll not allow making to many changes while the project is on going.
-      - NB! One should worry about the authority (in terms of the Stakeholders) of the person that you are talking to. If one is being very clear and upfront it's gonig to help everybody. 
+       - Setting Realsitic Expectation e.g. Feature Creep (Tony wanted to make it very clear, that he'll not allow making to many changes while the project is on going.
+       - NB! One should worry about the authority (in terms of the Stakeholders) of the person that you are talking to. If one is being very clear and upfront it's gonig to help everybody. 
 - [x]	Project Management Skills
      - Developing Project Management Skills in one's career e.g the Soft Skills in Project Management
-- [x]	Developing a systematic approach to devising a report building plan.
+
