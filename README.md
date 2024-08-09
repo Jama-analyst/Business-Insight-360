@@ -16,6 +16,7 @@
 - In response the Data Analyst Director sends and an email to Tony Sharma (Senior Data Analyst). Requesting him to review the preliminary list of features and to laise with Product Owner for further discussion.
   After that Tony send an email to Nick.
 - [ ] Tony's email to Nick:
+      
 Goodday Nick,
 
 I hope this message finds you well.
@@ -28,7 +29,7 @@ Best regards,
 
 Tony
 
-    **Tony Responsibilites**:
+**Tony Responsibilites**:
   - [ ] To schedule a Kick-off Meeting
   - [ ] Need to do his homework or research
   - [ ] Assign or set-up a Team (have a Jamanovandu Hangara - Junior Data Analyst)
