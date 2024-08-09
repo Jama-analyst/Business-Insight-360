@@ -18,7 +18,7 @@
 - In response the Data Analyst Director sends and an email to Tony Sharma (Senior Data Analyst). Requesting him to review the preliminary list of features and to laise with Product Owner for further discussion.
 - After that Tony send an email to Nick. Extanding a Kick-off meeting inviation and also enlighten Nick that he had reviewed the tool features and will check the data availability/feasibility for the sae before the Kick-off. He also mentions that he will prepare a Project Charter with the available details and his happy to discuss this in a Call.
 
-  
+
     **Tony Responsibilites**:
   - [ ] To schedule a Kick-off Meeting
   - [ ] Need to do his homework or research
@@ -45,17 +45,17 @@
 
 
 **Finance View:**
-- [ ] Tony ask about
+- [ ] Tony's question
 -  P & L Statement, is it a regular statement that we have in our company or is it customized?
-- [ ] Nick response
+- [ ] Nick's response
 - Let's start with a regular and as the project develops maybe we can customize it. Let's start with a every basic one.
-- [ ] Tony confirmed
+- [ ] Tony's confirmed
 - By saying that means we are having the regular statement that starts with Gross Sales and it goes to Gross Margin.
   
 **Sales View:**
 - [ ] Tony require some clarification from Nick
 - Showing Top/Bottom Customers. I would like to understand  what do you mean by X-axis or to have in the X & Y axis?
-- [ ] Nick response
+- [ ] Nick's response
 - Gross Margin on X-axis and Net Sales on Y-axis
 - [ ] Tony confirmed
 - It's quite a standard and we can do that, moving along with the project we can support other options like show the Net Sales Growth and Gross Margin Growth and a few different things like that.
@@ -64,17 +64,17 @@
 - [ ] Tony said that he does not have any questions in regard to Marketing View.
   
 **Supply Chain:**
--  [ ] Tony question
+-  [ ] Tony's question
 - Regarding Supply Chain, this is something very important I would want to discuss with you. Reliability data of which we need to get order data, unfortunately we do not have integrated into the system yet. I had a chat with the Database Engineer, he said that it will take at least 4-6 weeks to have this data, which pose a challenge, we might have ato postpone the deadline of the project or we can do this Reliability later? Which one do you prefer?
-- [ ] Nick response
+- [ ] Nick's response
 - I would go agile here, let's start with whatever we have. I do not want to postpone this project further, because it's a very important for our organization. Let's start with whatever we have, Reliability data is something we can tackle later.
 - [ ] Tony confirming
 - Okay, that's good, but I can say we still have the Forecast Accuracy data available, we can get it online.
        
 **Executive View:**
-- [ ] Tony question
+- [ ] Tony's question
 - You (referring to Nick) said there are some deatils to be discussed, do we have more information now or shall we keep it later?
-- [ ] Nick response
+- [ ] Nick's response
 - Let's keep it later. I don't have full details, once I start seeing some basic version of dashboard maybe I will be able to provide further input.
 - [ ] Tony confirmation
 - Okay, that's good. Thank you.
