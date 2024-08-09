@@ -138,8 +138,10 @@
 **Risks**
 - Resource stortage possiblity
 - Incase Nick's needs an additional resources Tony will communicate inadvanced, so that they can plan accordingly.
+  
 **Next Steps**
-- Tony will create a Team Channel & used it to forward the meeting's minutes to Nick.
+- Tony will create a Team Channel
+- Foward the meeting minutes to Nick using Team Channel.
 - He would request two things from Nick:
    - Benchmark data
    - a Mock-up Dashboard (how the dashboard should look like for Finance View, Executive View, etc) to use it for reference.
