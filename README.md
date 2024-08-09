@@ -93,13 +93,22 @@
  - Hopes and Fears
  - Risks
  - Timeline
- - [ ] Template used is Kick-off a project Create alignment and build relationships for new project.
+ - [ ] Template used is Kick-off a Project Create alignment and build relationships for new project.
+       
 **Project Charter was prepared by Tony**
 - [ ] Tony presenting the Project Charter
-- [ ] 
-- I have filled data based on the information I have received e.g Project Name etc,
 [Business Insight 360](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Business%20Insights%20360_2024-08-08_04-50-41.pdf)
   
+- I have filled data based on the information I have received e.g Project Name etc, but I still need your help to fill in the rest of the information.
+
+  **Objective:**
+  - [ ] Tony befriefing under Objectives
+  - The objective is have analytics in all markets e.g in India, USA, Canada and Asia. In short this should be applied to all their markets. We have pocket analytics in different markets e.g in USA amd India, we have quite a matured analytic, but if you think about South America and Europe we don't have much analytic there. So we want an Enterprise were business intelligent happening and data driven decision making.
+  - 
+**Timeline:**
+- [ ] Tony 
+- I have received information that we have a timing of 8 weeks, starting from now. In week 4 we'll provide you the Dashboard for UAT. I will try to provide you with the Minimum Vible Product which we called 
+
 - **Project objective:** 
 
     **1.** Create Profit and Loss (P&L) reports by _[Business Insight 360](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Business%20Insights%20360_2024-08-08_04-50-41.pdf)
