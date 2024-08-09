@@ -24,7 +24,7 @@
   - [ ] Need to do his homework or research
   - [ ] Assign or set-up a Team (have a Jamanovandu Hangara - Junior Data Analyst)
   - [ ] Prepare a Project Charter
-  - is a document that people use in the project Kick-off Meeting, it
+  - is a document that people use in the project Kick-off Meeting, 
   - it outlines the goals of the project
   - it states the objectives of the project
   - it introduces the Stakeholders of the project
@@ -84,10 +84,18 @@
 - [ ] Nick response
 - Let's keep it later. I don't have full details, once I start seeing some basic version of dashboard maybe I will be able to provide further input.
 - [ ] Tony confirmation
-- Okay, that's good. Thanks you 
+- Okay, that's good. Thank you.
+- Tony moving further to discuss the Project Charter.
 
 
 ## Discussing the Project Charter :
+- [ ] A Project Charter is short a document describing the entire project. We will use a tool called Mural for this and cover a few important dimensions of the project such as:
+ - Project Goals
+ - Key Stakeholders
+ - Hopes and Fears
+ - Risks
+ - Timeline
+   
 
 - **Project objective:** 
 
@@ -112,12 +120,12 @@
 -   Mural is a collaborative online whiteboard tool that offers several benefits, particularly for teams working remotely or in hybrid environments.
   
 ## Benefits of using Mural Tool are:
-- 	Visual Collaboration: Mural provides a canvas where teams can brainstorm, plan, and organize ideas visually. This can enhance creativity and help in better understanding complex concepts.
--   Real-Time Interaction: Team members can work on the same board simultaneously, which facilitates real-time collaboration and immediate feedback, making meetings and workshops more dynamic and productive.
+-  Visual Collaboration: Mural provides a canvas where teams can brainstorm, plan, and organize ideas visually. This can enhance creativity and help in better understanding complex concepts.
+-  Real-Time Interaction: Team members can work on the same board simultaneously, which facilitates real-time collaboration and immediate feedback, making meetings and workshops more dynamic and productive.
 -  Flexible Templates: Mural offers a variety of templates for different purposes, such as brainstorming sessions, SWOT analyses, and project planning, which can save time and help structure meetings and workshops effectively.
 -  Integration with Other Tools: It integrates with popular tools like Microsoft Teams, Slack, and Google Workspace, allowing for a seamless workflow and easy incorporation of Mural into existing processes.
 -  Accessibility: Being a cloud-based tool, Mural can be accessed from anywhere with an internet connection, supporting remote and distributed teams.
--   Enhanced Organization: Users can create sticky notes, draw diagrams, and use other visual elements to organize information in a way that is easy to understand and manage.
+-  Enhanced Organization: Users can create sticky notes, draw diagrams, and use other visual elements to organize information in a way that is easy to understand and manage.
 -  Facilitation Features: Mural includes features like voting, timers, and facilitation tools that help guide sessions and ensure productive and structured meetings.
 
 
