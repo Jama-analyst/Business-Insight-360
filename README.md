@@ -96,7 +96,11 @@
  - Risks
  - Timeline
  - [ ] Template used is Kick-off a project Create alignment and build relationships for new project.
- - [ ] Project Charter was prepared by Tony
+**Project Charter was prepared by Tony**
+- [ ] Tony presenting the Project Charter
+- [ ] 
+- I have filled data based on the information I have received e.g Project Name etc, but I still
+  
    
 
 - **Project objective:** 
