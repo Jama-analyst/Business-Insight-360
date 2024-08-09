@@ -15,8 +15,18 @@
 
 - In response the Data Analyst Director sends and an email to Tony Sharma (Senior Data Analyst). Requesting him to review the preliminary list of features and to laise with Product Owner for further discussion.
   After that Tony send an email to Nick.
-- [ ] Tony's email to Nick,
-I am reaching out to extend an invitation for our Kick-off meeting, where we will discuss the initial steps and objectives of our project. In preparation for this meeting, I have reviewed the tool features and will be assessing the availability and feasibility of the data required. Additionally, I will be preparing a Project Charter based on the available details. I would be happy to discuss this further during our call on Teams. Please let me know your availability for the Kick-off meeting at your earliest convenience.
+- [ ] Tony's email to Nick:
+Goodday Nick,
+
+I hope this message finds you well.
+
+I am reaching out to extend an invitation for our Kick-off meeting, where we will discuss the initial steps and objectives of our project. In preparation for this meeting, I have reviewed the tool features and will be assessing the availability and feasibility of the data required. Additionally, I will be preparing a Project Charter based on the available details. I would be happy to discuss this further during our call on Teams. 
+
+Please let me know your availability for the Kick-off meeting at your earliest convenience.
+
+Best regards,
+
+Tony
 
     **Tony Responsibilites**:
   - [ ] To schedule a Kick-off Meeting
