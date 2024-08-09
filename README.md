@@ -15,6 +15,7 @@
 
 - In response the Data Analyst Director sends and an email to Tony Sharma (Senior Data Analyst). Requesting him to review the preliminary list of features and to laise with Product Owner for further discussion.
   After that Tony send an email to Nick.
+  
 - [ ] Tony's email to Nick:
       
 Goodday Nick,
@@ -29,7 +30,7 @@ Best regards,
 
 Tony
 
-**Tony Responsibilites**:
+## Tony Responsibilites:
   - [ ] To schedule a Kick-off Meeting
   - [ ] Need to do his homework or research
   - [ ] Assign or set-up a Team (have a Jamanovandu Hangara - Junior Data Analyst)
@@ -93,7 +94,7 @@ Tony
 - Tony moving further to discuss the Project Charter.
 
 
-## Discussing the Project Charter :
+## Discussing the Project Charter:
 - [ ] A Project Charter is short a document describing the entire project. We will use a tool called Mural for this and cover a few important dimensions of the project such as:
  - Project Goals
  - Key Stakeholders
