@@ -1,17 +1,15 @@
 # Business-Insight-360
 ## Problem Statement
-- [ ] AtliQ Hardware is a hardware retail company, that offers a range of products such as PCs, mouse, printers. It has become the fast growing company in electronic goods market. While they grow substantially in the las t few years, they had a bitter experience in Latin America.
-- [ ]  They established their business there, but faced a huge loss and this happen because they made all thier decisions based on some survey they conducted and on thier intuition. In thier new Strategy meeting, one of their top items was to onboard 
-  data analytics in the company and to make data driven decision.
-- [ ] They heavily relied on Excel Files for Data Analytics. Excel Files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics the company faces a major loss in Latin American. Senior Executives of the company have 
-  decided to invest in a data analytics project and have assisgned a team for this task, to onboard data analytics and to bring a lot of transparency into their data, so that they can accurate decisions.
-- [ ] One of the challenage they are facing is their competitors, which is DELL that is growing substantially, and has a huge data analytics team, that does all kind of analytics on customers demographics, their consumption patterns and so on. To face that 
-  competition AtliQ had to do these, they had no other option.
+- [ ] AtliQ Hardware is a hardware retail company, which offers a range of products such as PCs, mouse, printers. It has become the fast-growing company in electronic goods market. Even they grew substantially in the last few years, they had a bitter experience in Latin America.
+- [ ]  They set up their business there, but faced a huge loss and this happened because decisions were made based on some survey they conducted and on their intuition. In their new Strategy meeting, one of their top items was to onboard data analytics in the company and to make data driven decision.
+- [ ] They heavily relied on Excel Files for Data Analytics. Excel Files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics the company faces a major loss in Latin American. Senior Executives of the company have decided to invest in a data analytics project and have assigned a team for this task, to onboard data analytics and to bring transparency into their data, so that they can make correct decisions.
+- [ ] One of the challenges they are facing is their competitors, which is DELL that is growing, and has a huge data analytics team, which does all kind of analytics on customers demographics, their consumption patterns and so forth. To face that competition AtliQ had to do these, they had no other possibility.
 - [ ] The whole conversation started with an email.
 
 ## The Email that Started this Project:
-- The Data Analytics Project started with an email from Nick Puri who is the Product Owner and the main Stakeholder, roughly outlining the requirements of the five (5) different Dashboards in Power BI (attaching the preliminary list of Features for review) and also mentioning the importance of the project to Stephen Singh the Data Analyst Director.
-- Report Features is an Induction Power BI Dashboard or a View. Each of this View gives answers on different types of questions as shown below:
+- The Data Analytics Project started with an email from Nick Puri who is the Product Owner and the main Stakeholder, roughly outlining the requirements of the five (5) different Dashboards in Power BI (attaching the preliminary list of Features for review) and mentioning the importance of the project to Stephen Singh the Data Analyst Director.
+•	Report Features is an Induction Power BI Dashboard or a View. Each of this View gives answers on diverse types of questions as shown below:
+
 
     ![image](https://github.com/user-attachments/assets/f625737d-5df4-4c30-9550-920cd4bcdc0e)
 
