@@ -9,7 +9,7 @@
   competition AtliQ had to do these, they had no other option.
 - [ ] The whole conversation started with an email.
 
-  **The Email that Started this Project:**
+## The Email that Started this Project:
 - The Data Analytics Project started with an email from Nick Puri who is the Product Owner and the main Stakeholder, roughly outlining the requirements of the five (5) different Dashboards in Power BI (attaching the preliminary list of Features for review) and also mentioning the importance of the project to Stephen Singh the Data Analyst Director.
 - Report Features is an Induction Power BI Dashboard or a View. Each of this View gives answers on different types of questions as shown below:
 
@@ -120,13 +120,20 @@
 -   Mural is a collaborative online whiteboard tool that offers several benefits, particularly for teams working remotely or in hybrid environments.
   
 ## Benefits of using Mural Tool are:
--  Visual Collaboration: Mural provides a canvas where teams can brainstorm, plan, and organize ideas visually. This can enhance creativity and help in better understanding complex concepts.
--  Real-Time Interaction: Team members can work on the same board simultaneously, which facilitates real-time collaboration and immediate feedback, making meetings and workshops more dynamic and productive.
--  Flexible Templates: Mural offers a variety of templates for different purposes, such as brainstorming sessions, SWOT analyses, and project planning, which can save time and help structure meetings and workshops effectively.
--  Integration with Other Tools: It integrates with popular tools like Microsoft Teams, Slack, and Google Workspace, allowing for a seamless workflow and easy incorporation of Mural into existing processes.
--  Accessibility: Being a cloud-based tool, Mural can be accessed from anywhere with an internet connection, supporting remote and distributed teams.
--  Enhanced Organization: Users can create sticky notes, draw diagrams, and use other visual elements to organize information in a way that is easy to understand and manage.
--  Facilitation Features: Mural includes features like voting, timers, and facilitation tools that help guide sessions and ensure productive and structured meetings.
+-  [ ] Visual Collaboration:
+-   Mural provides a canvas where teams can brainstorm, plan, and organize ideas visually. This can enhance creativity and help in better understanding complex concepts.
+- [ ] Real-Time Interaction:
+- Team members can work on the same board simultaneously, which facilitates real-time collaboration and immediate feedback, making meetings and workshops more dynamic and productive.
+-  [ ] Flexible Templates:
+- Mural offers a variety of templates for different purposes, such as brainstorming sessions, SWOT analyses, and project planning, which can save time and help structure meetings and workshops effectively.
+- [ ] Integration with Other Tools:
+-  It integrates with popular tools like Microsoft Teams, Slack, and Google Workspace, allowing for a seamless workflow and easy incorporation of Mural into existing processes.
+-  [ ] Accessibility:
+-  Being a cloud-based tool, Mural can be accessed from anywhere with an internet connection, supporting remote and distributed teams.
+-  [ ] Enhanced Organization:
+-  Users can create sticky notes, draw diagrams, and use other visual elements to organize information in a way that is easy to understand and manage.
+-  [ ] Facilitation Features:
+-  Mural includes features like voting, timers, and facilitation tools that help guide sessions and ensure productive and structured meetings.
 
 
 ## Soft Skills:
