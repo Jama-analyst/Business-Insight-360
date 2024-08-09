@@ -45,8 +45,10 @@ Tony
 
 ## Project Kick-off Meeting:
 - [ ] A Project Kick-off meeting is held between thr Product Owner, Senior Data Analyst and Junior Data Analyst to discuss the project. The Senior Data Analyst Tony asks some important questions during the meeting.
-- [ ] Tony lead the meeeting by
-
+- [ ] Tony leads the meeeting:
+ - Welcome, everyone. In today’s meeting, I'm the one driving this project Business Insight 360 and together with me on the call is Jamanovandu Hangara, our Junior Data Analyst, she was newly appointed, she'll be supporting me on this project. I’m excited to get started and to align on our goals and deliverables.
+- [ ] Nick response
+- He acknowledge the welcome, greets Jamanovandu and wants to know what's on the agenda.
 - Tony discussed about the features list and said that he has a cable of questions
 - 
  - **Report Features**
