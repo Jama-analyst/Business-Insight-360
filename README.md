@@ -115,7 +115,12 @@
 -  [ ] Fears
   - Data Correctness & Completeness
   - Feature Creep
-- 
+- [ ] Nick's fear
+- What if the data provided in Power BI Tool has a bug in it and on that note they have already made a decision which has cost them millions. How does Tony go about resolving that or preventing that from happening?
+- [ ] Tony's response
+- I will have Multi-level Validation, which means we will validate data right from the beginning. I would need some Brenhmark numbers from you, becasuse currently you are getting data from different people and it gets to be send to you in ExcelFiles. You have a rough idea on what is the Net Sales of the company at the total level for all the Markets and the Gross Margin, if you provide us with the brenchmark numbers, I will validate that against the data that I am receiving.
+- If there is a major gap we will find it very soon. Once that is done, we will have a Validation point in the Power BI, once the data received in the Power Bi we will create a Validation Report inside Power BI and it will provided to you as part of the UAT (User Acceptance Testing), so without you approving it, we won't move to the next stage.
+- There will be a final stage of Validation
 
 - **Project objective:** 
 
