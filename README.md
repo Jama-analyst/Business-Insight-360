@@ -95,6 +95,8 @@
  - Hopes and Fears
  - Risks
  - Timeline
+ - [ ] Template used is Kick-off a project Create alignment and build relationships for new project.
+ - [ ] Project Charter was prepared by Tony
    
 
 - **Project objective:** 
