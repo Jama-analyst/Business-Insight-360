@@ -35,7 +35,7 @@
 
     **2.** Conduct a comprehensive comparison between _[Market Performance and Sales Targets](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
 
-- **Project Kick-off Meeting:**
+## Project Kick-off Meeting:
 - [ ] A Project Kick-off meeting is held between thr Product Owner, Senior Data Analyst and Junior Data Analyst to discuss the project. The Senior Data Analyst Tony asks some important questions during the meeting.
 - [ ] Tony lead the meeeting by
 
@@ -46,26 +46,48 @@
 ![image](https://github.com/user-attachments/assets/12806d2e-f152-4d7c-afc7-fb140a338427)
 
 
-- **Finance View:**
-- Tony ask about P & L Statement, is it a regular statement that we have in our company or is it customized?
-- Nick response let's start with a regular and as the project develops maybe we can customize it. Let's start with a every basic one.
-- Tony confirmed by saying that means we are having the regular statement that starts with Gross Sales and it goes to Gross Margin.
-- 
-- **Sales View:**
-- Tony require some clarification from Nick in regard to showing Top/Bottom Customers. I would like to understand  what do you mean by X-axis or to have in the X & Y axis?
-- Nick response Gross Margin on X-axis  and Net Sales on Y-axis
-- Tony confirmed it's quite a standard and we can do that, moving along with the project we can support other options like show the Net Sales Growth and Gross Margin Growth and a few different things like that.
-- [ ] Identify sales patterns and track key performance indicators (KPIs).
-- [ ] 
-- **Marketing View:**
-- 
+**Finance View:**
+- [ ] Tony ask about
+-  P & L Statement, is it a regular statement that we have in our company or is it customized?
+- [ ] Nick response
+- Let's start with a regular and as the project develops maybe we can customize it. Let's start with a every basic one.
+- [ ] Tony confirmed
+- By saying that means we are having the regular statement that starts with Gross Sales and it goes to Gross Margin.
+  
+**Sales View:**
+- [ ] Tony require some clarification from Nick
+- Showing Top/Bottom Customers. I would like to understand  what do you mean by X-axis or to have in the X & Y axis?
+- [ ] Nick response
+- Gross Margin on X-axis and Net Sales on Y-axis
+- [ ] Tony confirmed
+- It's quite a standard and we can do that, moving along with the project we can support other options like show the Net Sales Growth and Gross Margin Growth and a few different things like that.
+
+**Marketing View:**
+- [ ] Tony said that he does not have any questions in regard to Marketing View.
+  
+**Supply Chain:**
+-  [ ] Tony question
+- Regarding Supply Chain, this is something very important I would want to discuss with you. Reliability data of which we need to get order data, unfortunately we do not have integrated into the system yet. I had a chat with the Database Engineer, he said that it will take at least 4-6 weeks to have this data, which pose a challenge, we might have ato postpone the deadline of the project or we can do this Reliability later? Which one do you prefer?
+- [ ] Nick response
+- I would go agile here, let's start with whatever we have. I do not want to postpone this project further, because it's a very important for our organization. Let's start with whatever we have, Reliability data is something we can tackle later.
+- [ ] Tony confirming
+- Okay, that's good, but I can say we still have the Forecast Accuracy data available, we can get it online.
+  
 - **Role of Reports:**
  - [ ] Determine effective customer discounts,
  - [ ] facilitate negotiations with consumers,
  - [ ] and identify potential business expansion opportunities in promising countries.
+       
+**Executive View:**
+- [ ] Tony question
+- You (referring to Nick) said there are some deatils to be discussed, do we have more information now or shall we keep it later?
+- [ ] Nick response
+- Let's keep it later. I don't have full details, once I start seeing some basic version of dashboard maybe I will be able to provide further input.
+- [ ] Tony confirmation
+- Okay, that's good. Thanks you 
 
 
-## Finance Report :
+## Discussing the Project Charter :
 
 - **Project objective:** 
 
