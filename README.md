@@ -53,9 +53,9 @@ Tony
 - He acknowledge the welcome, greets Jamanovandu and wants to know what's on the agenda.
 -   [ ] Agenda
   - Project Overview: Discuss the project goals, scope, and objectives.
-   - Roles and Responsibilities: Define team roles and expectations.
-    - imeline and Milestones: Review the project schedule and key milestones.
-    - Questions and Discussions: Address any questions or concerns.
+  - Roles and Responsibilities: Define team roles and expectations.
+  - Timeline and Milestones: Review the project schedule and key milestones.
+  - Questions and Discussions: Address any questions or concerns.
      
 - [ ] Tony discussed about the features list and said that he has a cable of questions
   
