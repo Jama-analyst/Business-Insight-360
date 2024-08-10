@@ -180,7 +180,7 @@ Tony
     **1.** Create Profit and Loss (P&L) reports by _[Business Insight 360](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Business%20Insights%20360_2024-08-08_04-50-41.pdf)
   
    **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Top%205%20Countries.pdf)_, [Division](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Division%20Report.pdf)_, [Top 10 Products](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)_ &
-   [Top 5 and Bottom 5 Products](https://teams.microsoft.com/l/channel/19%3A27c0e6f9e115482db070dfb643baf798%40thread.tacv2/BI%20360?groupId=a6c38349-b388-4085-b85b-f44c30c0cb12&tenantId=03a89289-9b96-47b9-a72e-d0f6373a5f5a&ngc=true)
+   [BI 360 Teams](https://teams.microsoft.com/l/channel/19%3A27c0e6f9e115482db070dfb643baf798%40thread.tacv2/BI%20360?groupId=a6c38349-b388-4085-b85b-f44c30c0cb12&tenantId=03a89289-9b96-47b9-a72e-d0f6373a5f5a&ngc=true)
 
 - **Purpose of Sales Analytics:**
 - [ ] Evaluation of financial performance,
