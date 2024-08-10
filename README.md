@@ -57,7 +57,7 @@ Tony
   - Timeline and Milestones: Review the project schedule and key milestones.
   - Questions and Discussions: Address any questions or concerns.
      
-- [ ] Tony discussed about the features list and said that he has a cable of questions
+- [ ] Tony starts with the Features List and states that he has a cable of questions.
   
  - **Report Features**
   
@@ -146,7 +146,7 @@ Tony
   
 - [x] Tony's Clarification
 - Since we are doing this project with a tight deadline and as you know we are a little team working on thid project, I don't want us to go into someting called Feature Creep -->which means we keep getting more features and more modifications as when we work on the project, I am pretty sure that you are aware of this and always have a good vision on how the project can be excuted, but since many Stakeholders involved, I would need your support on the kind of own the difference on the features that we are getting. It's not like we can't do this, but we need to put it in a pipeline and implement in the next phase, this is something that needs to be communicated and understood well by the Stakeholders.
--  [x] Nick response
+-  [x] Nick's response
 - We have faced this problem in our regular sotware projects, where our Stakeholders kept on giving different suggestions like you should add this feature, that feature and tha, has always created delays and bugs in our software that we have released. So I will make sure that we don't get in this situation of Feature Creep.
 
 **Defining Sucess:**
@@ -168,6 +168,14 @@ Tony
 
 
 ## Senior Data Analyst Sets Up the Next Steps with Junior Data Analyst
+- Senior Data Analyst, Tony Sharma, will now set-up the next steps with the Junior Data Analyst Jamanovandu Hangara.
+-  [ ] In this next step this are the things that they will cover:
+       - Create a Microsoft Team Channel
+       - Why use Microsoft Teams for Project Communication?
+       - Send action points via the Team Channel
+       - What is Fiscal Year
+       - Why Power BI
+       
 
     **1.** Create Profit and Loss (P&L) reports by _[Business Insight 360](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Business%20Insights%20360_2024-08-08_04-50-41.pdf)
   
