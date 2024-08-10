@@ -119,7 +119,7 @@ Tony
 
 **Objective:**
   - [ ] Tony befriefing under Objectives
-  - The objective is have analytics in all markets e.g in India, USA, Canada and Asia. In short this should be applied to all their markets. We have pocket analytics in different markets e.g in USA amd India, we have quite a matured analytic, but if you think about South America and Europe we don't have much analytic there. So we want an Enterprise were business intelligent happening and data driven decision making.
+  - The objectives is having analytics in all markets e.g. in India, USA, Canada and Asia. In short this should be applied to all their markets. We have pocket analytics in different markets e.g. in USA and India, we have quite a matured analytic, but if you think about South America and Europe, we don't have much analytic there. Therefore, we want an Enterprise were business intelligent happening and data driven decision making.
     
 **Timeline:**
 - [ ] Tony 
