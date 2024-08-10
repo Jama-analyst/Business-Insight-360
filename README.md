@@ -18,7 +18,7 @@
   
 - [ ] Tony's email to Nick:
       
-Goodday Nick,
+Good day Nick,
 
 I hope this message finds you well.
 
@@ -46,10 +46,17 @@ Tony
 
 ## Project Kick-off Meeting:
 - [ ] A Project Kick-off meeting is held between thr Product Owner, Senior Data Analyst and Junior Data Analyst to discuss the project. The Senior Data Analyst Tony asks some important questions during the meeting.
+
 - [ ] Tony leads the meeeting:
  - Welcome, everyone. In today’s meeting, I'm the one driving this project Business Insight 360 and together with me on the call is Jamanovandu Hangara, our Junior Data Analyst, she was newly appointed, she'll be supporting me on this project. I’m excited to get started and to align on our goals and deliverables.
 - [ ] Nick response
 - He acknowledge the welcome, greets Jamanovandu and wants to know what's on the agenda.
+-   [ ] Agenda
+  - Project Overview: Discuss the project goals, scope, and objectives.
+   - Roles and Responsibilities: Define team roles and expectations.
+    - imeline and Milestones: Review the project schedule and key milestones.
+    - Questions and Discussions: Address any questions or concerns.
+     
 - [ ] Tony discussed about the features list and said that he has a cable of questions
   
  - **Report Features**
@@ -104,7 +111,7 @@ Tony
  - [ ] Template used is Kick-off a Project Create alignment and build relationships for new project.
        
 **Project Charter was prepared by Tony**
-- [ ] Tony will presenting the Project Charter
+- [ ] Tony presents the Project Charter and share his screen.
 
 [Business Insight 360](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Business%20Insights%20360_2024-08-08_04-50-41.pdf)
   
