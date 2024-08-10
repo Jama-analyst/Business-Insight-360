@@ -170,16 +170,17 @@ Tony
 ## Senior Data Analyst Sets Up the Next Steps with Junior Data Analyst
 - Senior Data Analyst, Tony Sharma, will now set-up the next steps with the Junior Data Analyst Jamanovandu Hangara.
 -  [ ] In this next step this are the things that they will cover:
-       - Create a Microsoft Team Channel
-       - Why use Microsoft Teams for Project Communication?
-       - Send action points via the Team Channel
-       - What is Fiscal Year
-       - Why Power BI
+- Create a Microsoft Team Channel
+- Why use Microsoft Teams for Project Communication?
+- Send action points via the Team Channel
+- What is Fiscal Year
+- Why Power BI
        
 
     **1.** Create Profit and Loss (P&L) reports by _[Business Insight 360](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Business%20Insights%20360_2024-08-08_04-50-41.pdf)
   
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Top%205%20Countries.pdf)_, [Division](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Division%20Report.pdf)_, [Top 10 Products](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)_ & [Top 5 and Bottom 5 Products](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Top%205%20and%20Bottom%205%20products.pdf)
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Top%205%20Countries.pdf)_, [Division](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Division%20Report.pdf)_, [Top 10 Products](https://github.com/Jama-analyst/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf)_ &
+   [Top 5 and Bottom 5 Products](https://teams.microsoft.com/l/channel/19%3A27c0e6f9e115482db070dfb643baf798%40thread.tacv2/BI%20360?groupId=a6c38349-b388-4085-b85b-f44c30c0cb12&tenantId=03a89289-9b96-47b9-a72e-d0f6373a5f5a&ngc=true)
 
 - **Purpose of Sales Analytics:**
 - [ ] Evaluation of financial performance,
@@ -198,6 +199,9 @@ Tony
 **Mural**
 -   Mural is a collaborative online whiteboard tool that offers several benefits, particularly for teams working remotely or in hybrid environments.
 **Teams**
+- I learned how to create Microsoft Team Channel
+- I learned how to created a Website and add Outlook URL link.
+- how to add members to BI 360 and making them all owners
 
 ## Benefits of using Mural Tool are:
 -  [ ] Visual Collaboration:
