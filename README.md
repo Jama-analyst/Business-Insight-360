@@ -187,13 +187,13 @@ Tony
    [BI 360 Teams](https://teams.microsoft.com/l/channel/19%3A27c0e6f9e115482db070dfb643baf798%40thread.tacv2/BI%20360?groupId=a6c38349-b388-4085-b85b-f44c30c0cb12&tenantId=03a89289-9b96-47b9-a72e-d0f6373a5f5a&ngc=true)
 
 
-## Tool used was 
+## Tool used were:
 **Mural**
 -   Mural is a collaborative online whiteboard tool that offers several benefits, particularly for teams working remotely or in hybrid environments.
 **Teams**
 - I learned how to create Microsoft Team Channel
 - I learned how to created a Website and add Outlook URL link.
-- how to add members to BI 360 and making them all owners
+- I learned how to add members to BI 360 and making them all owners
 
 ## Benefits of using Mural Tool are:
 -  [ ] Visual Collaboration:
@@ -211,6 +211,33 @@ Tony
 -  [ ] Facilitation Features:
 -  Mural includes features like voting, timers, and facilitation tools that help guide sessions and ensure productive and structured meetings.
 
+## Benefits of using Teams are:
+- [ ] Unified Communication:
+- Teams integrates chat, video conferencing, and voice calls into a single platform, reducing the need for multiple communication tools and making it easier to connect with colleagues.
+- [ ] Seamless Collaboration: 
+- It facilitates real-time collaboration on documents and projects. Users can co-author documents, share files, and collaborate within channels, ensuring everyone is on the same page.
+- [ ] Integrated Office 365 Suite: 
+- Teams integrates seamlessly with other Microsoft Office 365 applications, such as Word, Excel, and PowerPoint. This integration allows users to easily access, edit, and share files without leaving the platform.
+- [ ] Customizable Workspaces:
+- Teams offers customizable channels and tabs, enabling users to organize conversations and files by project or department. This flexibility helps in managing different aspects of work effectively.
+Robust Security and Compliance:
+- Microsoft Teams benefits from the security features and compliance standards of Microsoft 365. It includes data encryption, multi-factor authentication, and compliance certifications, ensuring that sensitive information is protected.
+- [ ] Task Management and Planning: 
+- Teams integrates with project management tools like Planner and To Do, helping users to manage tasks, set deadlines, and track progress within the same environment.
+- [ ] Integration with Third-Party Apps: 
+- The platform supports integration with a wide range of third-party applications and services, enhancing its functionality and allowing users to streamline their workflows with the tools they already use.
+- [ ] Cross-Platform Accessibility:
+- Teams is accessible on various devices, including desktops, tablets, and smartphones. This cross-platform support ensures that users can stay connected and collaborate regardless of their location or device.
+ - [ ] Enhanced Meeting Experience:
+- Teams offers features like meeting scheduling, screen sharing, recording, and real-time collaboration during meetings. These capabilities enhance virtual meetings and improve overall communication.
+- [ ] Advanced Search and Organization:
+- Teams provides powerful search functionality that allows users to quickly find messages, files, and conversations. This feature helps in efficiently locating important information and managing content.
+- [ ] Automated Workflow with Bots and Connectors:
+- Users can leverage bots and connectors to automate routine tasks, such as notifications and reminders, streamlining workflows and improving efficiency.
+- [ ] Scalability:
+- Teams is suitable for organizations of all sizes, from small businesses to large enterprises. Its scalability ensures that it can adapt to the growing needs of a business.
+- [ ] User-Friendly Interface:
+- The platform features an intuitive and user-friendly interface, which simplifies adoption and reduces the learning curve for new users.
 
 ## Soft Skills:
 - [x]	Being Proactive
