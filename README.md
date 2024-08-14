@@ -187,19 +187,6 @@ Tony
    [BI 360 Teams](https://teams.microsoft.com/l/channel/19%3A27c0e6f9e115482db070dfb643baf798%40thread.tacv2/BI%20360?groupId=a6c38349-b388-4085-b85b-f44c30c0cb12&tenantId=03a89289-9b96-47b9-a72e-d0f6373a5f5a&ngc=true)
 
 
-- **Purpose of Sales Analytics:**
-- [ ] Evaluation of financial performance,
-- [ ] support decision-making,
-- [ ] and facilitate communication with stakeholders.
-
-- **Importance of Analyzing Finance Data:**
-- [ ] Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of Reports:**
-- [ ] Align financial planning with strategic goals
-- [ ] Instill confidence in the organization's financial outlook.
-
-
 ## Tool used was 
 **Mural**
 -   Mural is a collaborative online whiteboard tool that offers several benefits, particularly for teams working remotely or in hybrid environments.
