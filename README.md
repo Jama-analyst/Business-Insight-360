@@ -170,21 +170,22 @@ Tony
 ## Senior Data Analyst Sets Up the Next Steps with Junior Data Analyst
 - Senior Data Analyst, Tony Sharma, will now set-up the next steps with the Junior Data Analyst Jamanovandu Hangara.
 -  [ ] In this next step this are the things that they will cover:
-- Create a Microsoft Team Channel
+       
+**1.** Create a Microsoft Team Channel
   [BI 360 Teams](https://teams.microsoft.com/l/channel/19%3A27c0e6f9e115482db070dfb643baf798%40thread.tacv2/BI%20360?groupId=a6c38349-b388-4085-b85b-f44c30c0cb12&tenantId=03a89289-9b96-47b9-a72e-d0f6373a5f5a&ngc=true)
+[Teams](https://teams.microsoft.com/l/team/19%3AxluFjysz-Q79Op0SwxOIoN94YDGxcjfRxzX5OfOHiYg1%40thread.tacv2/conversations?groupId=a6c38349-b388-4085-b85b-f44c30c0cb12&tenantId=03a89289-9b96-47b9-a72e-d0f6373a5f5a)
 
-- Why use Microsoft Teams for Project Communication?
-- Send action points via the Team Channel
-- What is Fiscal Year
-- Why Power BI
+**2.** Why use Microsoft Teams for Project Communication?
+
+**3.** Send action points via the Team Channel
+
+**4.** What is Fiscal Year
+
+**5.** Why Power BI
        
 
-    **1.** Create Profit and Loss (P&L) reports by _[Business Insight 360](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Business%20Insights%20360_2024-08-08_04-50-41.pdf)
   
-   **2.** Create Profit and Loss (P&L) reports by _[Teams](https://teams.microsoft.com/l/team/19%3AxluFjysz-Q79Op0SwxOIoN94YDGxcjfRxzX5OfOHiYg1%40thread.tacv2/conversations?groupId=a6c38349-b388-4085-b85b-f44c30c0cb12&tenantId=03a89289-9b96-47b9-a72e-d0f6373a5f5a)
-
-  
-   [BI 360 Teams](https://teams.microsoft.com/l/channel/19%3A27c0e6f9e115482db070dfb643baf798%40thread.tacv2/BI%20360?groupId=a6c38349-b388-4085-b85b-f44c30c0cb12&tenantId=03a89289-9b96-47b9-a72e-d0f6373a5f5a&ngc=true)
+[BI 360 Teams](https://teams.microsoft.com/l/channel/19%3A27c0e6f9e115482db070dfb643baf798%40thread.tacv2/BI%20360?groupId=a6c38349-b388-4085-b85b-f44c30c0cb12&tenantId=03a89289-9b96-47b9-a72e-d0f6373a5f5a&ngc=true)
 
 
 ## Tool used were:
@@ -247,7 +248,9 @@ Robust Security and Compliance:
        - NB! One should worry about the authority (in terms of the Stakeholders) of the person that you are talking to. If one is being very clear and upfront it's gonig to help everybody. 
 - [x]	Project Management Skills
      - Developing Project Management Skills in one's career e.g the Soft Skills in Project Management
-- [X] I learned how to create Microsoft Team Channel
-- I learned how to created a Website and add Outlook URL link.
-- I learned how to add members to BI 360 and making them all owners
+- [X] Knowledged Gain:
+     - how to create Microsoft Team Channel,
+     - create a Website and add Outlook URL Link
+     - how to create a Project Chart
+
 
