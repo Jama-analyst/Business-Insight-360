@@ -190,10 +190,10 @@ Tony
 ## Tool used were:
 **Mural**
 -   Mural is a collaborative online whiteboard tool that offers several benefits, particularly for teams working remotely or in hybrid environments.
-**Teams**
-- I learned how to create Microsoft Team Channel
-- I learned how to created a Website and add Outlook URL link.
-- I learned how to add members to BI 360 and making them all owners
+  
+-   **Teams**
+-   Microsoft Teams is a comprehensive collaboration and communication platform designed to enhance productivity and streamline teamwork
+- 
 
 ## Benefits of using Mural Tool are:
 -  [ ] Visual Collaboration:
@@ -247,4 +247,7 @@ Robust Security and Compliance:
        - NB! One should worry about the authority (in terms of the Stakeholders) of the person that you are talking to. If one is being very clear and upfront it's gonig to help everybody. 
 - [x]	Project Management Skills
      - Developing Project Management Skills in one's career e.g the Soft Skills in Project Management
+- [X] I learned how to create Microsoft Team Channel
+- I learned how to created a Website and add Outlook URL link.
+- I learned how to add members to BI 360 and making them all owners
 
