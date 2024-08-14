@@ -8,7 +8,7 @@
 
 ## The Email that Started this Project:
 - The Data Analytics Project started with an email from Nick Puri who is the Product Owner and the main Stakeholder, roughly outlining the requirements of the five (5) different Dashboards in Power BI (attaching the preliminary list of Features for review) and mentioning the importance of the project to Stephen Singh the Data Analyst Director.
-•	Report Features is an Induction Power BI Dashboard or a View. Each of this View gives answers on diverse types of questions as shown below:
+- [ ] Report Features is an Induction Power BI Dashboard or a View. Each of this View gives answers on diverse types of questions as shown below:
 
 
     ![image](https://github.com/user-attachments/assets/f625737d-5df4-4c30-9550-920cd4bcdc0e)
@@ -118,11 +118,11 @@ Tony
 - I have filled data based on the information I have received e.g Project Name etc, but I still need your help to fill in the rest of the information.
 
 **Objective:**
-  - [ ] Tony befriefing under Objectives
+  - [x] Tony befriefing under Objectives
   - The objectives is having analytics in all markets e.g. in India, USA, Canada and Asia. In short this should be applied to all their markets. We have pocket analytics in different markets e.g. in USA and India, we have quite a matured analytic, but if you think about South America and Europe, we don't have much analytic there. Therefore, we want an Enterprise were business intelligent happening and data driven decision making.
     
 **Timeline:**
-- [ ] Tony 
+- [x] Tony 
 - I have received information that we have a timing of 8 weeks, starting from now. In week 4 we'll provide you the Dashboard for UAT. I will try to provide you with the Minimum Vible Product which we called it MVP by the end of week 4. By the end of week 8, the user should start using the tool.
 - In between that, there will be Validation Stage, were will we be validating the data and I will be taking other feedback fixing that are not working correctly.
   
@@ -191,9 +191,9 @@ Tony
 **Mural**
 -   Mural is a collaborative online whiteboard tool that offers several benefits, particularly for teams working remotely or in hybrid environments.
   
--   **Teams**
+**Teams**
 -   Microsoft Teams is a comprehensive collaboration and communication platform designed to enhance productivity and streamline teamwork
-- 
+
 
 ## Benefits of using Mural Tool are:
 -  [ ] Visual Collaboration:
