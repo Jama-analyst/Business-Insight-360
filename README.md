@@ -165,8 +165,9 @@ Tony
 - He would request two things from Nick:
    - Benchmark Data
    - a Mock-up Dashboard (how the dashboard should look like for Finance View, Executive View, etc) to use it for reference.
+     
 [Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
-https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx
+
 ## Senior Data Analyst Sets Up the Next Steps with Junior Data Analyst
 - Senior Data Analyst, Tony Sharma, will now set-up the next steps with the Junior Data Analyst Jamanovandu Hangara.
 -  [ ] In this next step this are the things that they will cover:
