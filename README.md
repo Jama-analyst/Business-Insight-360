@@ -9,9 +9,7 @@
 ## The Email that Started this Project:
 - The Data Analytics Project started with an email from Nick Puri who is the Product Owner and the main Stakeholder, roughly outlining the requirements of the five (5) different Dashboards in Power BI (attaching the preliminary list of Features for review) and mentioning the importance of the project to Stephen Singh the Data Analyst Director.
 - [ ] Report Features is an Induction Power BI Dashboard or a View. Each of this View gives answers on diverse types of questions as shown below:
-
-
-    ![image](https://github.com/user-attachments/assets/f625737d-5df4-4c30-9550-920cd4bcdc0e)
+  ![image](https://github.com/user-attachments/assets/f625737d-5df4-4c30-9550-920cd4bcdc0e)
 
 - In response the Data Analyst Director sends and an email to Tony Sharma (Senior Data Analyst). Requesting him to review the preliminary list of features and to laise with Product Owner for further discussion.
   After that Tony send an email to Nick.
@@ -164,8 +162,7 @@ Tony
 - Foward the meeting minutes to Nick using Team Channel.
 - He would request two things from Nick:
    - Benchmark Data
-   - a Mock-up Dashboard (how the dashboard should look like for Finance View, Executive View, etc) to use it for reference.
-     
+   - a Mock-up Dashboard (how the dashboard should look like for Finance View, Executive View, etc) to use it for reference.    
 [Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
 
 ## Senior Data Analyst Sets Up the Next Steps with Junior Data Analyst
@@ -183,10 +180,7 @@ Tony
 **4.** What is Fiscal Year
 
 **5.** Why Power BI
-       
-
-  
-[BI 360 Teams](https://teams.microsoft.com/l/channel/19%3A27c0e6f9e115482db070dfb643baf798%40thread.tacv2/BI%20360?groupId=a6c38349-b388-4085-b85b-f44c30c0cb12&tenantId=03a89289-9b96-47b9-a72e-d0f6373a5f5a&ngc=true)
+    
 
 
 ## Tool used were:
