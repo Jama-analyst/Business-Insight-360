@@ -181,7 +181,7 @@ Tony
 
 **5.** Why Power BI
 
-**6. Rough Sketches for the Finace View Dashboard from Nick Puri the Product Owner
+**6.** Rough Sketches for the Finace View Dashboard from Nick Puri the Product Owner
 
 [Rough Dashboard Sketches](https://github.com/Jama-analyst/Business-Insight-360/blob/main/rough-dashboard-sketch.pdf))
 
