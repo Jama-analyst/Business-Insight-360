@@ -32,7 +32,7 @@ Tony
   - [ ] To schedule a Kick-off Meeting
   - [ ] Need to do his homework or research
   - [ ] Assign or set-up a Team (have a Jamanovandu Hangara - Junior Data Analyst)
-  - [ ] Prepare a Project Charter
+  - [ ] Prepare a Project Charter:
   - is a document that people use in the project Kick-off Meeting, 
   - it outlines the goals of the project
   - it states the objectives of the project
