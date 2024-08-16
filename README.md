@@ -122,8 +122,8 @@ Tony
     
 **Timeline:**
 - [x] Tony 
-- I have received information that we have a timing of 8 weeks, starting from now. In week 4 we'll provide you the Dashboard for UAT. I will try to provide you with the Minimum Vible Product which we called it MVP by the end of week 4. By the end of week 8, the user should start using the tool.
-- In between that, there will be Validation Stage, were will we be validating the data and I will be taking other feedback fixing that are not working correctly.
+- I have received information that we have an 8-week timeline starting from now. By week 4, we will provide the Dashboard for User Acceptance Testing (UAT). I aim to deliver the Minimum Viable Product (MVP) by the end of week 4. By the end of week 8, users should begin using the tool.
+- In the interim, we will enter the Validation Stage, where we will validate the data and address any issues based on feedback to ensure everything functions correctly.
   
 **Hope & Fears:**
 - [ ] Hopes
@@ -136,12 +136,12 @@ Tony
   - Feature Creep
     
 - [x] Nick's Fear 
-- What if the data provided in Power BI Tool has a bug in it and on that note they have already made a decision which has cost them millions. How does Tony go about resolving that or preventing that from happening?
+- What if the data provided in the Power BI tool contains a bug, and decisions based on this data have already resulted in significant financial losses? How should Tony address this issue or prevent it from occurring in the first place?
 - [x] Tony's response
-- I will have Multi-level Validation, which means we will validate data right from the beginning. I would need some Benchmark numbers from you, becasuse currently you are getting data from different people and it gets to be send to you in Excel Files.
-- You have a rough idea on what is the Net Sales of the company at the total level for all the Markets and the Gross Margin, if you provide us with the Benchmark numbers, I will validate that against the data that I am receiving.
-- If there is a major gap we will find it very soon. Once that is done, we will have a Validation point in the Power BI, once the data received in the Power BI we will create a Validation Report inside Power BI and it will provided to you as part of the UAT (User Acceptance Testing), so without you approving it, we won't move to the next stage.
-- There will be a final stage of Validation, whereby Nick will ask each Stakeholder's department to validate the numbers, to make sure that all the key figures are validated from the Stakeholders and note that's the way we do it.
+- I will implement multi-level validation, which means we will validate the data from the outset. To facilitate this, I will need some benchmark numbers from you. Currently, you are receiving data from various sources in Excel files.
+- If you provide us with the benchmark numbers for Net Sales and Gross Margin at the total level for all markets, I will compare these benchmarks against the data we are receiving. This will help us quickly identify any major discrepancies.
+- Once this initial validation is complete, we will have a validation point in Power BI. We will create a Validation Report within Power BI and provide it to you as part of the User Acceptance Testing (UAT). We will not proceed to the next stage without your approval.
+- The final validation stage will involve Nick requesting each stakeholder’s department to validate the numbers to ensure that all key figures are confirmed by the stakeholders. This is our standard procedure.
   
 - [x] Tony's Concerns and Clarification
 - Since we're working with a tight deadline and have a small team on this project, it's crucial to avoid "Feature Creep," which refers to continuously adding new features and modifications as we progress. I know you're aware of this and have a good vision for the project, but given the number of stakeholders involved, I need your support in managing feature requests. We can certainly address additional features, but they should be planned for a future phase. It's important that this approach is clearly communicated and understood by all stakeholders.
@@ -165,6 +165,7 @@ Tony
    - Benchmark Data
    - a Mock-up Dashboard (how the dashboard should look like for Finance View, Executive View, etc) to use it for reference.    
 [Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+[Rough Dashboard Sketches](https://github.com/Jama-analyst/Business-Insight-360/blob/main/rough-dashboard-sketch.pdf))
 
 ## Senior Data Analyst Sets Up the Next Steps with Junior Data Analyst
 - Senior Data Analyst, Tony Sharma, will now set-up the next steps with the Junior Data Analyst Jamanovandu Hangara.
@@ -172,7 +173,7 @@ Tony
        
 **1.** Create a Microsoft Team Channel
   [BI 360 Teams](https://teams.microsoft.com/l/channel/19%3A27c0e6f9e115482db070dfb643baf798%40thread.tacv2/BI%20360?groupId=a6c38349-b388-4085-b85b-f44c30c0cb12&tenantId=03a89289-9b96-47b9-a72e-d0f6373a5f5a&ngc=true)
-[Teams](https://teams.microsoft.com/l/team/19%3AxluFjysz-Q79Op0SwxOIoN94YDGxcjfRxzX5OfOHiYg1%40thread.tacv2/conversations?groupId=a6c38349-b388-4085-b85b-f44c30c0cb12&tenantId=03a89289-9b96-47b9-a72e-d0f6373a5f5a)
+  [Teams](https://teams.microsoft.com/l/team/19%3AxluFjysz-Q79Op0SwxOIoN94YDGxcjfRxzX5OfOHiYg1%40thread.tacv2/conversations?groupId=a6c38349-b388-4085-b85b-f44c30c0cb12&tenantId=03a89289-9b96-47b9-a72e-d0f6373a5f5a)
 
 **2.** Why use Microsoft Teams for Project Communication?
 
@@ -181,10 +182,6 @@ Tony
 **4.** What is Fiscal Year
 
 **5.** Why Power BI
-
-**6.** Rough Sketches for the Finace View Dashboard from Nick Puri the Product Owner
-
-[Rough Dashboard Sketches](https://github.com/Jama-analyst/Business-Insight-360/blob/main/rough-dashboard-sketch.pdf))
 
 
 ## Tool used were:
