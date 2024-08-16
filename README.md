@@ -165,6 +165,7 @@ Tony
    - Benchmark Data
    - a Mock-up Dashboard (how the dashboard should look like for Finance View, Executive View, etc) to use it for reference.    
 [Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+
 [Rough Dashboard Sketches](https://github.com/Jama-analyst/Business-Insight-360/blob/main/rough-dashboard-sketch.pdf))
 
 ## Senior Data Analyst Sets Up the Next Steps with Junior Data Analyst
