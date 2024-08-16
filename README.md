@@ -142,11 +142,11 @@ Tony
 - If there is a major gap we will find it very soon. Once that is done, we will have a Validation point in the Power BI, once the data received in the Power BI we will create a Validation Report inside Power BI and it will provided to you as part of the UAT (User Acceptance Testing), so without you approving it, we won't move to the next stage.
 - There will be a final stage of Validation, whereby Nick will ask each Stakeholder's department to validate the numbers, to make sure that all the key figures are validated from the Stakeholders and note that's the way we do it.
   
-- [x] Tony's Clarification
-- Since we are doing this project with a tight deadline and as you know we are a little team working on third project, I don't want us to go into somehting called Feature Creep -->which means we keep getting more features and more modifications as when we work on the project, I am pretty sure that you are aware of this and always have a good vision on how the project can be executed, but since many Stakeholders involved, I would need your support on the kind of own the difference on the features that we are getting. It's not like we can't do this, but we need to put it in a pipeline and implement in the next phase, this is something that needs to be communicated and understood well by the Stakeholders.
+- [x] Tony's Concerns and Clarification
+- Since we're working with a tight deadline and have a small team on this project, it's crucial to avoid "Feature Creep," which refers to continuously adding new features and modifications as we progress. I know you're aware of this and have a good vision for the project, but given the number of stakeholders involved, I need your support in managing feature requests. We can certainly address additional features, but they should be planned for a future phase. It's important that this approach is clearly communicated and understood by all stakeholders.
 -  [x] Nick's response
-- We have faced this problem in our regular sotware projects, where our Stakeholders kept on giving different suggestions like you should add this feature, that feature and tha, has always created delays and bugs in our software that we have released. So I will make sure that we don't get in this situation of Feature Creep.
-
+- In our previous software projects, we've encountered issues with stakeholders continuously suggesting new features, which often led to delays and introduced bugs in the released software. To prevent this from happening again, I will ensure that we avoid Feature Creep in this project.
+  
 **Defining Sucess:**
 - [ ] Future Headlines
 - Increase in Sales for regions with low growth %
