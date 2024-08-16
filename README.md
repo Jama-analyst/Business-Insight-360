@@ -181,7 +181,7 @@ Tony
 
 **5.** Why Power BI
 
-**6. Rough Stratches from Nick Puri the Product Owner
+**6. Rough Sketches for the Finace View Dashboard from Nick Puri the Product Owner
 
 [Rough Dashboard Stra](https://teams.microsoft.com/l/team/19%3AxluFjysz-Q79Op0SwxOIoN94YDGxcjfRxzX5OfOHiYg1%40thread.tacv2/conversations?groupId=a6c38349-b388-4085-b85b-f44c30c0cb12&tenantId=03a89289-9b96-47b9-a72e-d0f6373a5f5a)
 
