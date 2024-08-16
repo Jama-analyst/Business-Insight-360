@@ -163,7 +163,8 @@ Tony
 - Foward the meeting minutes to Nick using Team Channel.
 - He would request two things from Nick:
    - Benchmark Data
-   - a Mock-up Dashboard (how the dashboard should look like for Finance View, Executive View, etc) to use it for reference.    
+   - a Mock-up Dashboard (how the dashboard should look like for Finance View, Executive View, etc) to use it for reference.
+     
 [Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
 
 [Rough Dashboard Sketches](https://github.com/Jama-analyst/Business-Insight-360/blob/main/rough-dashboard-sketch.pdf))
