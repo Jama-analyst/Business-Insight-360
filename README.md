@@ -79,15 +79,16 @@ Tony
 - It's quite a standard and we can do that, moving along with the project we can support other options like show the Net Sales Growth and Gross Margin Growth and a few different things like that.
 
 **Marketing View:**
-- [ ] Tony said that he does not have any questions in regard to Marketing View.
-  
+- [ ] Tony mentioned that he does not have any questions regarding the Marketing View.
+
 **Supply Chain:**
 -  [ ] Tony's question
-- Regarding Supply Chain, this is something very important I would want to discuss with you. Reliability data of which we need to get order data, unfortunately we do not have integrated into the system yet. I had a chat with the Database Engineer, he said that it will take at least 4-6 weeks to have this data, which pose a challenge, we might have ato postpone the deadline of the project or we can do this Reliability later? Which one do you prefer?
+- Regarding the Supply Chain, I’d like to discuss an important issue with you. We need to obtain reliability data, specifically order data, but it is not yet integrated into the system. I spoke with the Database Engineer, who indicated that it will take at least 4-6 weeks to integrate this data. This poses a challenge, and we may need to either postpone the project deadline or address the reliability data in a later phase. Which option would you prefer?
+
 - [ ] Nick's response
-- I would go agile here, let's start with whatever we have. I do not want to postpone this project further, because it's a very important for our organization. Let's start with whatever we have, Reliability data is something we can tackle later.
+- I recommend adopting an agile approach here. Let’s proceed with what we have and not delay the project any further, as it's very important for our organization. We can address the reliability data at a later stage.
 - [ ] Tony confirming
-- Okay, that's good, but I can say we still have the Forecast Accuracy data available, we can get it online.
+- Okay, that sounds good. However, I want to mention that we still have access to the Forecast Accuracy data, which we can obtain online.
        
 **Executive View:**
 - [ ] Tony's question
