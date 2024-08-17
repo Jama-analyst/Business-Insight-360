@@ -183,8 +183,9 @@ Tony
 
 **4.** What is Fiscal Year
 
-**5.** Why Power BI
+**5.** Nick Puri the Product Owner shared his rough sketches via Team:
 
+[Team Roug Sketches](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Team%20Rough%20Sketches.png)
 
 ## Tool used were:
 **Mural**
