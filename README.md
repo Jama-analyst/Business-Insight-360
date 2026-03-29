@@ -255,7 +255,7 @@ In Home view, all the views button will be available. User will land on specific
 [Sales View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Sales%20View%20Dashboard.png)
 
 ## Marketing View
-[Marketing View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+[Marketing View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Marketing%20View%20Dashboard.png)
 
 ## Supply Chain View
 [Supply Chain View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Supply%20Chains%20View%20Dashboard.png)
