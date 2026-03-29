@@ -97,14 +97,14 @@ Initial Dashboard
      - create a Website and add Outlook URL Link
      - how to create a Project Chart
 
-##Tech stacks
+## Tech stacks
 SQL
 PowerBi Desktop
 Excel
-DAX language
-DAX studio (for optimizing the report)
+DAX Language
+DAX Studio (for optimizing the report)
 
-##Project charter file
+## Project charter file
 PowerBI techniques Learnt
 What are all the questions should be asked before staring the project
 Creating calculated columns
@@ -127,17 +127,17 @@ And more 😅
 GitHub
 Uploading Large size files using GitHub LFS
 Tracking the particular type of file extensions for LFS
-Business related terms
-Gross price
-Pre-invoice deductions
-Post-Invoice deductions
-Net Invoice sale
-Gross Margin
-Net sales
-Net profit
-COGC - cost of goods sold
-YTD - Year to Date
-YTG - Year to Go
+## Key KPIs
+-Gross price
+-Pre-invoice deductions
+-Post-Invoice deductions
+-Net Invoice sale
+-Gross Margin
+-Net sales
+-Net profit
+-COGC - cost of goods sold
+-YTD (Year to Date)
+- YTG (Year to Go)
 Direct
 Retailer
 Distributors
@@ -153,10 +153,10 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 
 ## Questions to ask before starting with dashboard
-What is the objective of building this PowerBi dashboard?
-In what terms the success of this project will be measured?
-What will be time dead-line of the project?
-do the stakeholders expecting pre-view before the actual release?
+-What is the objective of building this PowerBi dashboard?
+-In what terms the success of this project will be measured?
+-What will be time dead-line of the project?
+Do the stakeholders expecting pre-view before the actual release?
 What are all the hopes stakeholders have out of this project?
 what are all fears the stakeholder have in terms of building this dashboard?
 Who are all will be using this dashboard and for what purpose?
