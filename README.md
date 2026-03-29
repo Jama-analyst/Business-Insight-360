@@ -20,23 +20,9 @@ Sales Director of the AltiQ hardware, decided to build a PowerBI Dashboard for c
 - [ ] Report Features is an Induction Power BI Dashboard or a View. Each of this View gives answers on diverse types of questions as shown below:
  (https://github.com/user-attachments/assets/f625737d-5df4-4c30-9550-920cd4bcdc0e)
 
-
-
 ## AIMS Grid
 By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result and success criteria of our project.
-![image]([https://github.com/user-attachments/assets/f625737d-5df4-4c30-9550-920cd4bcdc0e)](https://github.com/Jama-analyst/Business-Insight-360/blob/main/AIMS%20Grid.png)
-
-## Steps Followed in this project
-Performed a High level analysis of data in SQL to get better understanding over the data.
-Connected the SQL data set to Power BI.
-Performed ETL and data cleaning on the imported data.
-In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
-Created measure for needs and used them for creating visuals in PowerBi.
-After the initial report reviewed by the stakeholders, made changes to the report based on the review commends.
-Final result
-Initial Dashboard
-
-
+![image]([https://github.com/Jama-analyst/Business-Insight-360/blob/main/AIMS%20Grid.png)
 
 ## Project Kick-off Meeting:
 - [ ] A Project Kick-off meeting is held between thr Product Owner, Senior Data Analyst and Junior Data Analyst to discuss the project. The Senior Data Analyst Tony asks some important questions during the meeting.
@@ -71,13 +57,6 @@ Initial Dashboard
   - The objectives is having analytics in all markets e.g. in India, USA, Canada and Asia. In short this should be applied to all their markets. We have pocket analytics in different markets e.g. in USA and India, we have quite a matured analytic, but if you think about South America and Europe, we don't have much analytic there. Therefore, we want an Enterprise were business intelligent happening and data driven decision making.
     
 
-   - Benchmark Data
-   - a Mock-up Dashboard (how the dashboard should look like for Finance View, Executive View, etc) to use it for reference.
-     
-[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
-
-[Rough Dashboard Sketches](https://github.com/Jama-analyst/Business-Insight-360/blob/main/rough-dashboard-sketch.pdf)
-
        
 **1.** Create a Microsoft Team Channel
   [BI 360 Teams](https://teams.microsoft.com/l/channel/19%3A27c0e6f9e115482db070dfb643baf798%40thread.tacv2/BI%20360?groupId=a6c38349-b388-4085-b85b-f44c30c0cb12&tenantId=03a89289-9b96-47b9-a72e-d0f6373a5f5a&ngc=true)
@@ -87,58 +66,49 @@ Initial Dashboard
 
 [Team Roug Sketches](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Team%20Rough%20Sketches.png)
 
-
-
-## Soft Skills:
-
-       - NB! One should worry about the authority (in terms of the Stakeholders) of the person that you are talking to. If one is being very clear and upfront it's gonig to help everybody. 
-- [x]	Project Management Skills
-     - Developing Project Management Skills in one's career e.g the Soft Skills in Project Management
-- [X] Knowledged Gain:
-     - how to create Microsoft Team Channel,
-     - create a Website and add Outlook URL Link
-     - how to create a Project Chart
-
 ## Tech Stacks
 - [X] SQL
 - [X] PowerBI Desktop
 - [X] Excel
 - [X] DAX Language
 - [X] DAX Studio (for optimizing the report)
+- [X] Mural
 
-## Project charter file
-PowerBI techniques Learnt
-What are all the questions should be asked before staring the project
-Creating calculated columns
-creating measure using DAX language
-Data modeling
-Using Bookmarks to switch between two visuals
-Page navigation with buttons
-Using divide function to prevent zero division errors
-creating date table using m language
-Dynamic titles based on the applied filters
-Using KPI indicators
-Conditional formatting the values in visuals using icons or background color
-Data validation techniques
-PowerBi services
-Publishing reports to PowerBi services
-Setting up personal gateway to set up the auto refresh of data
-PowerBi App creation
-Collaboration, workspace, access permissions in PowerBi services
-And more 😅
-GitHub
+## Project Charter File
+- PowerBI techniques Learnt
+- What are all the questions should be asked before staring the project
+- Creating calculated columns
+- Creating measure using DAX language
+- Data modeling
+- Using Bookmarks to switch between two visuals
+- Page navigation with buttons
+- Using divide function to prevent zero division errors
+- Creating date table using m language
+- Dynamic titles based on the applied filters
+- Using KPI indicators
+- Conditional formatting the values in visuals using icons or background color
+- Data validation techniques
+- PowerBI Services
+- Publishing Reports to PowerBI Services
+- Setting up personal gateway to set up the auto refresh of data
+- PowerBI App creation
+- Collaboration, workspace, access permissions in PowerBI Services
+- And more 😅
+  
+## GitHub
 Uploading Large size files using GitHub LFS
 Tracking the particular type of file extensions for LFS
+
 ## Key KPIs
-- Gross price
+- Gross Price
 - Pre-invoice deductions
 - Post-Invoice deductions
-- Net Invoice sale
+- Net Invoice Sale
 - Gross Margin
-- Net sales
-- Net profit
+- Net Sales
+- Net Profit
 - COGC (Cost of Goods Sold)
--YTD (Year to Date)
+- YTD (Year to Date)
 - YTG (Year to Go)
 - Direct
 - Retailer
@@ -170,15 +140,15 @@ After the project kick off meetings, the data engineering team has given the dat
 ## Dataset Understanding.
 Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
 
--[] Dimension table : It will have the static data like details of customer and products
+-[X] Dimension table : It will have the static data like details of customer and products
 
--[] Fact table : It will have the data about the transactions
+-[X] Fact table : It will have the data about the transactions
 
 gdb041:
-dim_customer
-27 distinct markets (ex India, USA, spain)
-75 distinct customers thorough out the market
-2 types of platforms
+- [X]dim_customer
+- distinct markets (ex India, USA, spain)
+- 75 distinct customers thorough out the market
+- 2 types of platforms
 Brick & Motors - Physical/offline store
 E-commerce - Online Store (Amazon, flipkart)
 Three channels
@@ -242,6 +212,7 @@ Based on the Mock-ups received as requirement, the team will start designing the
 
    - Benchmark Data
    - A Mock-up/Rough Dashboard (how the dashboard should look like for Finance View, Executive View, etc) to use it for reference.
+     
 [Rough Dashboard Sketches](https://github.com/Jama-analyst/Business-Insight-360/blob/main/rough-dashboard-sketch.pdf)
           
 [Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
