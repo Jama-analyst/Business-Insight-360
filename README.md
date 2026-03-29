@@ -243,7 +243,7 @@ Based on the Mock-ups received as requirement, the team will start designing the
 [Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
 ## Home view
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
-[Home View](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+[Home View](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Home%20Page.png)
 
 ## Info Page
 [Info Page](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
