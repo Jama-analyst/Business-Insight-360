@@ -76,7 +76,7 @@ Initial Dashboard
      
 [Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
 
-[Rough Dashboard Sketches](https://github.com/Jama-analyst/Business-Insight-360/blob/main/rough-dashboard-sketch.pdf))
+[Rough Dashboard Sketches](https://github.com/Jama-analyst/Business-Insight-360/blob/main/rough-dashboard-sketch.pdf)
 
        
 **1.** Create a Microsoft Team Channel
@@ -90,10 +90,7 @@ Initial Dashboard
 
 
 ## Soft Skills:
-- [x]	Being Proactive
-       - As a Data Analyst, one needs to ask questions, as one needs clarification from the begining
-- [x]	Expectation Management
-       - Setting Realsitic Expectation e.g. Feature Creep (Tony wanted to make it very clear, that he'll not allow making to many changes while the project is on going.
+
        - NB! One should worry about the authority (in terms of the Stakeholders) of the person that you are talking to. If one is being very clear and upfront it's gonig to help everybody. 
 - [x]	Project Management Skills
      - Developing Project Management Skills in one's career e.g the Soft Skills in Project Management
@@ -102,12 +99,12 @@ Initial Dashboard
      - create a Website and add Outlook URL Link
      - how to create a Project Chart
 
-## Tech stacks
-SQL
-PowerBi Desktop
-Excel
-DAX Language
-DAX Studio (for optimizing the report)
+## Tech Stacks
+- [X] SQL
+- [X] PowerBI Desktop
+- [X] Excel
+- [X] DAX Language
+- [X] DAX Studio (for optimizing the report)
 
 ## Project charter file
 PowerBI techniques Learnt
@@ -151,12 +148,17 @@ Tracking the particular type of file extensions for LFS
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 
 ## Questions to ask before starting with dashboard
-- What is the objective of building this PowerBi dashboard?
+- [X] Being Proactive
+       - As a Data Analyst, one needs to ask questions, as one needs clarification from the begining
+- [X] NB! One should worry about the authority (in terms of the Stakeholders) of the person that you are talking to. If one is being very clear and upfront it's gonig to help everybody.
+- [x]	Expectation Management
+       - Setting Realsitic Expectation e.g. Feature Creep (Tony wanted to make it very clear, that he'll not allow making to many changes while the project is on
+- What is the objective of building this PowerBI Dashboard?
 - In what terms the success of this project will be measured?
 - What will be time dead-line of the project?
 - Do the stakeholders expecting pre-view before the actual release?
 - What are all the hopes stakeholders have out of this project?
-- What are all fears the stakeholder have in terms of building this dashboard?
+- What are all fears the stakeholderS have in terms of building this dashboard?
 - Who are all will be using this dashboard and for what purpose?
 - What are all expectation the stakeholders have, by the completion of this project?
 - What can go wrong while building this project?
@@ -232,16 +234,18 @@ As the database is MySQL in this project, we need to import the datasets from My
 -Poor data modeling affects the over all performance of the report.
 -Following Good practices of Data Modeling is must. 
 -In this project, we have followed Snowfall data modeling method.
-[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Data%20Model.png)
+[Data Model](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Data%20Model.png)
 
 
 ## Dashboard designing
 Based on the Mock-ups received as requirement, the team will start designing the visuals and create measure as and when required
 
    - Benchmark Data
-   - a Mock-up Dashboard (how the dashboard should look like for Finance View, Executive View, etc) to use it for reference.
-     
+   - A Mock-up/Rough Dashboard (how the dashboard should look like for Finance View, Executive View, etc) to use it for reference.
+[Rough Dashboard Sketches](https://github.com/Jama-analyst/Business-Insight-360/blob/main/rough-dashboard-sketch.pdf)
+          
 [Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+
 ## Home View
 In Home View, all the views button will be available. User will land on specific view page by clicking the button
 [Home View](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Home%20Page.png)
