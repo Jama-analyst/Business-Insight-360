@@ -12,7 +12,7 @@ Sales Director of the AltiQ hardware, decided to build a PowerBI Dashboard for c
 ## The Email that Started this Project:
 - The Data Analytics Project started with an email from Product Owner providing us with a rough sketche requirements of the five (5) different Dashboards in Power BI (attaching the preliminary list of Features for review).
 - [ ] Report Features is an Induction Power BI Dashboard or a View. Each of this View gives answers on diverse types of questions as shown below:
-  ![image](https://github.com/user-attachments/assets/f625737d-5df4-4c30-9550-920cd4bcdc0e)
+ (https://github.com/user-attachments/assets/f625737d-5df4-4c30-9550-920cd4bcdc0e)
 
 
 
