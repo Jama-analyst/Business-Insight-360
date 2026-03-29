@@ -252,7 +252,7 @@ In Home view, all the views button will be available. User will land on specific
 [Finance View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Finance%20View%20Dashboard.png)
 
 ## Sales View
-[Sales View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+[Sales View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Sales%20View%20Dashboard.png)
 
 ## Marketing View
 [Marketing View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
