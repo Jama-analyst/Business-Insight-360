@@ -1,8 +1,9 @@
 # Business-Insight-360
-## Problem Statement
+## Company's Background
 AtliQ Hardware is a hardware retail company, which offers a range of products such as PCs, mouse, printers. It has become the fast-growing company in electronic goods market. Even though they grew substantially in the last few years, they had a bitter experience in Latin America.
 They set up their business there, but faced a huge loss and this happened because decisions were made based on some survey they conducted and on their intuition. In their new Strategy meeting, one of their top items was to onboard data analytics in the company and to make data driven decision.
 
+## Problem Statement
 They heavily relied on Excel Files for Data Analytics. Excel Files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics the company faces a major loss in Latin American. Senior Executives of the company have decided to invest in a data analytics project and have assigned a team for this task, to onboard data analytics and to bring transparency into their data, so that they can make correct decisions.
 One of the challenges they are facing is their competitors, which is DELL that is growing, and has a huge data analytics team, which does all kind of analytics on customers demographics, their consumption patterns and so forth. To face that competition AtliQ had to do these, they had no other possibility.
 
@@ -151,7 +152,7 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 
-##Questions to ask before starting with dashboard
+## Questions to ask before starting with dashboard
 What is the objective of building this PowerBi dashboard?
 In what terms the success of this project will be measured?
 What will be time dead-line of the project?
@@ -165,7 +166,7 @@ what are all the resources/ data needed to build this dashboard?
 is there any inputs from stakeholders in terms of design and views of the dashboard?
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 
-##Dataset Understanding.
+## Dataset Understanding.
 Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
 
 Dimension table : It will have the static data like details of customer and products
@@ -240,14 +241,24 @@ Based on the Mock-ups received as requirement, the team will start designing the
    - a Mock-up Dashboard (how the dashboard should look like for Finance View, Executive View, etc) to use it for reference.
      
 [Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
-##Home view
+## Home view
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
 
-##Info
-##Finance View
-##Sales View
-##Marketing View
-##Supply chain View
-##Executive View
-##Products
-##Support
+## Info
+[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+## Info Page
+[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+## Finance View
+[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+## Sales View
+[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+## Marketing View
+[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+## Supply chain View
+[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+## Executive View
+[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+## Products
+[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+## Support
+[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
