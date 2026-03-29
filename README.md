@@ -243,19 +243,23 @@ Based on the Mock-ups received as requirement, the team will start designing the
 [Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
 ## Home view
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
+[Home View](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
 
-## Info
-[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
 ## Info Page
-[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+[Info Page](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+
 ## Finance View
-[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+[Finance View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Finance%20View%20Dashboard.png)
+
 ## Sales View
-[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+[Sales View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+
 ## Marketing View
-[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
-## Supply chain View
-[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+[Marketing View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+
+## Supply Chain View
+[Supply Chain View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+
 ## Executive View
 [[Executive View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Executive%20View%20Dashboard.png))
 ## Products
