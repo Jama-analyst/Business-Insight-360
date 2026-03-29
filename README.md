@@ -2,10 +2,15 @@
 ## Company's Background
 AtliQ Hardware is a hardware retail company, which offers a range of products such as PCs, mouse, printers. It has become the fast-growing company in electronic goods market. Even though they grew substantially in the last few years, they had a bitter experience in Latin America.
 They set up their business there, but faced a huge loss and this happened because decisions were made based on some survey they conducted and on their intuition. In their new Strategy meeting, one of their top items was to onboard data analytics in the company and to make data driven decision.
+- Retailers
+- Direct
+- Distributors
 
 ## Problem Statement
 They heavily relied on Excel Files for Data Analytics. Excel Files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics the company faces a major loss in Latin American. Senior Executives of the company have decided to invest in a data analytics project and have assigned a team for this task, to onboard data analytics and to bring transparency into their data, so that they can make correct decisions.
 One of the challenges they are facing is their competitors, which is DELL that is growing, and has a huge data analytics team, which does all kind of analytics on customers demographics, their consumption patterns and so forth. To face that competition AtliQ had to do these, they had no other possibility.
+
+Recently the company has faced a unforeseen loss by opening store in America based on the surveys, intuition and some excel analysis and also the company’s competitors has handful of analytics team to perform analysis and make data driven decision. So, the AltiQ hardware has no other option other than building their analytics team for data driven insights and decisions in the future to survive better in the industry.
 
 ## Solution
 Sales Director of the AltiQ hardware, decided to build a PowerBI Dashboard for converting the data into visual representation to make data driven decisions. So, he hired a team of Data Experties to complete this task.
@@ -128,50 +133,44 @@ GitHub
 Uploading Large size files using GitHub LFS
 Tracking the particular type of file extensions for LFS
 ## Key KPIs
--Gross price
--Pre-invoice deductions
--Post-Invoice deductions
--Net Invoice sale
--Gross Margin
--Net sales
--Net profit
--COGC - cost of goods sold
+- Gross price
+- Pre-invoice deductions
+- Post-Invoice deductions
+- Net Invoice sale
+- Gross Margin
+- Net sales
+- Net profit
+- COGC (Cost of Goods Sold)
 -YTD (Year to Date)
 - YTG (Year to Go)
-Direct
-Retailer
-Distributors
-Consumer
-##Company’s back ground
-AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
-
-Retailers
-Direct
-Distributors
-Recently the company has faced a unforeseen loss by opening store in America based on the surveys, intuition and some excel analysis and also the company’s competitors has handful of analytics team to perform analysis and make data driven decision. So, the AltiQ hardware has no other option other than building their analytics team for data driven insights and decisions in the future to survive better in the industry.
+- Direct
+- Retailer
+- Distributors
+- Consumer
 
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 
 ## Questions to ask before starting with dashboard
--What is the objective of building this PowerBi dashboard?
--In what terms the success of this project will be measured?
--What will be time dead-line of the project?
-Do the stakeholders expecting pre-view before the actual release?
-What are all the hopes stakeholders have out of this project?
-what are all fears the stakeholder have in terms of building this dashboard?
-Who are all will be using this dashboard and for what purpose?
-what are all expectation the stakeholders have, by the completion of this project?
-What can go wrong while building this project?
-what are all the resources/ data needed to build this dashboard?
-is there any inputs from stakeholders in terms of design and views of the dashboard?
+- What is the objective of building this PowerBi dashboard?
+- In what terms the success of this project will be measured?
+- What will be time dead-line of the project?
+- Do the stakeholders expecting pre-view before the actual release?
+- What are all the hopes stakeholders have out of this project?
+- What are all fears the stakeholder have in terms of building this dashboard?
+- Who are all will be using this dashboard and for what purpose?
+- What are all expectation the stakeholders have, by the completion of this project?
+- What can go wrong while building this project?
+- What are all the resources/ data needed to build this dashboard?
+- Is there any inputs from stakeholders in terms of design and views of the dashboard?
+  
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 
 ## Dataset Understanding.
 Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
 
-Dimension table : It will have the static data like details of customer and products
+-[] Dimension table : It will have the static data like details of customer and products
 
-Fact table : It will have the data about the transactions
+-[] Fact table : It will have the data about the transactions
 
 gdb041:
 dim_customer
