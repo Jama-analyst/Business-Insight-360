@@ -227,11 +227,12 @@ Post_invoice_deductions
 Post invoice deductions and other deductions details
 Importing data into PowerBi
 As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
-Data Model
+##bData Model
 Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 Poor data modeling affects the over all performance of the report.
 Following Good practices of data modeling is must. Refer this page to get to know the good practices Blog
 In this project, we have followed Snowfall data modeling method.
+[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
 
 
 ##Dashboard designing
@@ -241,8 +242,8 @@ Based on the Mock-ups received as requirement, the team will start designing the
    - a Mock-up Dashboard (how the dashboard should look like for Finance View, Executive View, etc) to use it for reference.
      
 [Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
-## Home view
-In Home view, all the views button will be available. User will land on specific view page by clicking the button
+## Home View
+In Home View, all the views button will be available. User will land on specific view page by clicking the button
 [Home View](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Home%20Page.png)
 
 ## Info Page
@@ -263,5 +264,5 @@ In Home view, all the views button will be available. User will land on specific
 ## Executive View
 [[Executive View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Executive%20View%20Dashboard.png)
 
-## Support
-[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+## Support Page
+[Support Page](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Support%20Page.png)
