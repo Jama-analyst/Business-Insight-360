@@ -96,13 +96,14 @@ Initial Dashboard
      - create a Website and add Outlook URL Link
      - how to create a Project Chart
 
-Tech stacks
+##Tech stacks
 SQL
 PowerBi Desktop
 Excel
 DAX language
 DAX studio (for optimizing the report)
-Project charter file
+
+##Project charter file
 PowerBI techniques Learnt
 What are all the questions should be asked before staring the project
 Creating calculated columns
@@ -140,7 +141,7 @@ Direct
 Retailer
 Distributors
 Consumer
-Company’s back ground
+##Company’s back ground
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 
 Retailers
@@ -150,7 +151,7 @@ Recently the company has faced a unforeseen loss by opening store in America bas
 
 Project kick off session, where you should get clear of for what and why this project and all other questions you have with regards to the project
 
-Questions to ask before starting with dashboard
+##Questions to ask before starting with dashboard
 What is the objective of building this PowerBi dashboard?
 In what terms the success of this project will be measured?
 What will be time dead-line of the project?
@@ -164,7 +165,7 @@ what are all the resources/ data needed to build this dashboard?
 is there any inputs from stakeholders in terms of design and views of the dashboard?
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 
-Dataset Understanding.
+##Dataset Understanding.
 Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
 
 Dimension table : It will have the static data like details of customer and products
@@ -232,17 +233,21 @@ Following Good practices of data modeling is must. Refer this page to get to kno
 In this project, we have followed Snowfall data modeling method.
 
 
-Dashboard designing
-Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
+##Dashboard designing
+Based on the Mock-ups received as requirement, the team will start designing the visuals and create measure as and when required
 
-Home view
+   - Benchmark Data
+   - a Mock-up Dashboard (how the dashboard should look like for Finance View, Executive View, etc) to use it for reference.
+     
+[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+##Home view
 In Home view, all the views button will be available. User will land on specific view page by clicking the button
 
-Info
-Finance View
-Sales View
-Marketing View
-Supply chain View
-Executive View
-Products
-Support
+##Info
+##Finance View
+##Sales View
+##Marketing View
+##Supply chain View
+##Executive View
+##Products
+##Support
