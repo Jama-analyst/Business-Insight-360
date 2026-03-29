@@ -246,7 +246,7 @@ In Home view, all the views button will be available. User will land on specific
 [Home View](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Home%20Page.png)
 
 ## Info Page
-[Info Page](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+[Info Page](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Info%20Page.png)
 
 ## Finance View
 [Finance View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Finance%20View%20Dashboard.png)
@@ -262,7 +262,6 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Executive View
 [[Executive View Dashboard](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Executive%20View%20Dashboard.png)
-## Products
-[Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
+
 ## Support
 [Benchmark Data](https://github.com/Jama-analyst/Business-Insight-360/blob/main/benchmark-numbers.docx)
