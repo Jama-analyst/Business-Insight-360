@@ -140,44 +140,44 @@ After the project kick off meetings, the data engineering team has given the dat
 ## Dataset Understanding.
 Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
 
--[X] Dimension table : It will have the static data like details of customer and products
+- [X] Dimension table : It will have the static data like details of customer and products
 
--[X] Fact table : It will have the data about the transactions
+- [X] Fact table : It will have the data about the transactions
 
 gdb041:
 - [X] dim_customer
-- distinct markets (ex India, USA, spain)
+- distinct markets (ex India, USA, Spain)
 - 75 distinct customers thorough out the market
-- [] 2 types of platforms
+- [ ] 2 types of platforms
 - Brick & Motors - Physical/offline store
 - E-commerce - Online Store (Amazon, flipkart)
-- [X] Three channels
+- [ ] Three channels
 - Retailer
 - Direct
 - Distributors
 - [X] dim_market
 - 27 distinct markets (ex India, USA, spain)
 - 7 sub-zones
-- [] 4 regions
+- [ ] 4 regions
 - APAC
 - EU
 - nan
 - LATAM
 - [X] dim_product
-- [] Divisions
-- P & A
+- [ ] Divisions
+- [ ] P & A
 - Peripherals
 - Accessories
-- PC
+- [ ] PC
 - Notebook
 - Desktop
-- N & S
-Networking
-Storage
-There are 14 different categories, Like Internal HDD, keyboard
-There are different variants available for the same product
+- [ ] N & S
+- Networking
+- Storage
+ [ ]  There are 14 different categories, Like Internal HDD, keyboard
+ [ ] There are different variants available for the same product
 - [X] fact_forecast_monthly
-- [] This table is used to forecast the customer’s need in advance, which can help in
+- [ ] This table is used to forecast the customer’s need in advance, which can help in
  - Higher customer satisfaction
  - Reduced cost in warehouses for storage purpose
 - The table is denormalized by data engineering team, as it is a data warehouse which is aimed to be used for analytical work.
