@@ -22,7 +22,7 @@ Sales Director of the AltiQ hardware, decided to build a PowerBI Dashboard for c
 
 ## AIMS Grid
 By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result and success criteria of our project.
-![image]([https://github.com/Jama-analyst/Business-Insight-360/blob/main/AIMS%20Grid.png)
+![image](https://github.com/Jama-analyst/Business-Insight-360/blob/main/AIMS%20Grid.png)
 
 ## Project Kick-off Meeting:
 - [ ] A Project Kick-off meeting is held between thr Product Owner, Senior Data Analyst and Junior Data Analyst to discuss the project. The Senior Data Analyst Tony asks some important questions during the meeting.
