@@ -138,11 +138,11 @@ Project kick off session, where you should get clear of for what and why this pr
 After the project kick off meetings, the data engineering team has given the data as per the request of data analytics team, let’s explore them.
 
 ## Dataset Understanding.
-Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
+Understanding what data is available will be more helpful while doing analysis, before jumping on to the analysis one needds to get a good understanding of what data are available.
 
-- [X] Dimension table : It will have the static data like details of customer and products
+- [X] Dimension Table : It will have the static data like details of customer and products
 
-- [X] Fact table : It will have the data about the transactions
+- [X] Fact Table : It will have the data about the transactions
 
 gdb041:
 - [X] dim_customer
