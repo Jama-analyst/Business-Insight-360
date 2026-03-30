@@ -200,16 +200,15 @@ Importing data into PowerBi
 As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
 
 ## Data Model
--Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
--Poor data modeling affects the over all performance of the report.
--Following Good practices of Data Modeling is must. 
--In this project, we have followed Snowfall data modeling method.
+- Data Modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
+- Poor Data Modeling affects the over all performance of the report.
+- Following Good practices of Data Modeling is must. 
+- In this project, we have followed Snowfall Data Modeling method.
 [Data Model](https://github.com/Jama-analyst/Business-Insight-360/blob/main/Data%20Model.png)
 
 
 ## Dashboard designing
 Based on the Mock-ups received as requirement, the team will start designing the visuals and create measure as and when required
-
    - Benchmark Data
    - A Mock-up/Rough Dashboard (how the dashboard should look like for Finance View, Executive View, etc) to use it for reference.
      
